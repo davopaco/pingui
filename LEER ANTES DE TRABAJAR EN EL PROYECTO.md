@@ -8,19 +8,21 @@
  - Si tienen problemas me pueden contactar por WhatsApp y ahí intento solucionarlo (con respecto al repositorio, I mean).
 
 # IMPORTANTE!!
+ - Todo aquello que lleven como los cronogramas, el storyboard, o demás archivos, métanlos en la carpeta "RESOURCES" y si quieren pueden crear carpetas para organizar las cositas.
+ - La carpeta "DOCUMENTATION" está solo para poner los documentos como la especificación de requirimientos y la formulación del proyecto.
  - Estamos trabajando en la carpeta "PINGUI", no hagan caso a la carpeta "VERSIONES" que esa solo está hecha con cosas que he hecho merge para los proyectos.
  - En el apartado que se llama "VERSION CAMBIOS" tendrán que poner aquello que hayan hecho y puesto en pull. Todo aquello que no se publique o no metan en el proyecto, NO LO PONGAN. Esto lo hago con el propósito de llevar un poco de manejo sobre lo que tenemos más allá del source control que se maneja con Git.
  - En "VERSION CAMBIOS" pongan "# nuevo" debajo del apartado correspondiente para saber qué se ha hecho. P.D. No es necesario que lo expliquen solo que muestren lo que se lleve; sin embargo, si creen que es necesario explicarlo, lo pueden hacer.
  - Se borrará el apartado "# nuevo" cuando ya se haya discutido con todo el grupo lo que se ha hecho y se pondrá en una nueva versión. Esta es como nuestra pseudo-documentación por ahora, después lo arreglamos.
  - Cambien nombres de los assets a cosas que sean más específicas para no confundirnos con todo lo que tenemos. En tal caso que le cambien, abajo en "VERSION CAMBIOS" especifiquen que se cambio de un nombre al otro en el mismo apartado de "# nuevo".
- - Si van a agregar otro tipo de assets como por ejemplo "Scripts", en "VERSION CAMBIOS" agregan un nuevo grupo de assets (si este no está). (Ejemplo: Quiero agregar un script, entonces agrego "# SCRIPTS" y describo lo que se hace.
+ - Si van a agregar otro tipo de assets como por ejemplo "Scripts", en "VERSION CAMBIOS" agregan un nuevo grupo de assets (si este no está). (Ejemplo: Quiero agregar un script, entonces agrego "# SCRIPTS" y describo lo que se hace:
+
     "# SCRIPTS
     " # nuevo
     " - Script1: Función para saltar.
     "
  )
  - TODO AQUELLO QUE TRABAJEN PONGAN AL LADO QUIÉN LO HIZO. CON ESO LLEVAMOS CONTROL NO SOLO DE EQUILIBRIO DE TRABAJO SI NO EL MANEJO DE POR SI ALGO GENERA UN ERROR.
-
 
 # VERSION CAMBIOS
     VERSION 2.0
@@ -48,5 +50,12 @@
   -fnt_pingui01, fnt_pingui0240, fnt_pingui03, fontGrande, text_font.
   # nuevo
   -
- 
+
+# CARPETA DOCUMENTACION
+ - No hay nada por el momento.
+
+# CARPETA RESOURCES
+ - Más que todo está llena de pngs y algunos .html de la música que se ha venido trabajando.
+ # nuevo
+ - Se agregó la carpeta "DOCEXTRA" para poner archivos como los png del cronograma y el storyboard. 
 

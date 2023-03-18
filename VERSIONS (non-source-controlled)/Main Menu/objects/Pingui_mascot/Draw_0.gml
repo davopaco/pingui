@@ -1,0 +1,1 @@
+draw_sprite(pingui_right, 0, x, y);

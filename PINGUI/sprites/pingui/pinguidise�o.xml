@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Test" Runtime="VM" Device="Default">
+	<Desktop x="0" y="34" width="1920" height="1046" id="19" title="Diseño_pingui - GameMaker" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="False" chain="True" title="Espacio de trabajo 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[524, 1106]" workspace_scale="1">
+				<Module Command="open_sprite_editor">
+					<SpriteEditor SpriteEditor_Id="pingui">
+						<WorkspaceChain left="334.6667dpi_px" top="105.333336dpi_px" />
+					</SpriteEditor>
+				</Module>
+				<Module Command="open_sprite_editor">
+					<SpriteEditor SpriteEditor_Id="Sprite2">
+						<WorkspaceChain left="336dpi_px" top="734dpi_px" />
+					</SpriteEditor>
+				</Module>
+			</Workspace>
+			<Workspace active="True" chain="False" title="pingui" localise_title="" user_edited_title="True" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_image_editor" WorkspaceOwner="true">
+					<ImageEditor id="pingui" frame="0" />
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="Sprite2" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_image_editor" WorkspaceOwner="true">
+					<ImageEditor id="Sprite2" frame="0" />
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Collapsed" type="eLeft" restore_size="305dpi_px" active_tab="0">
+			<DockTab localise_title="Inspector_WindowTitle" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="91f1f2a6-e6b4-4da0-a502-1bc9a6ca99d7">
+				<Module Command="open_inspector">
+					<Inspector resName="Sprite2">
+						<Window left="0px" right="" top="0px" bottom="" width="340dpi_px" height="600dpi_px" flags="Default" title="Inspector: Sprite2" localise_title="Inspector_WindowTitleArg" />
+					</Inspector>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Collapsed" type="eRight" restore_size="305dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="1d9e0bef-80c8-4e0e-a010-6ed65ce9d7f0">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Navegador de activos" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Collapsed" type="eBottom" restore_size="128.53333dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="f21cd191-4fbc-44a9-a09d-c737bc0a1e1a">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Salida" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="01c08cdc-32c3-42be-8161-53561c7b5093">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Resultados de búsqueda" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="cb3dcb6b-4c86-45d0-96e9-fa24fdc1f32f">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Control de fuente" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="c0675b7f-3b10-4ead-a66e-dbeacf508de2">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Interrupciones" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="9eac3c5b-4027-400f-a9af-79708eccf37f">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compilar errores" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="57d75df9-0d16-4256-adef-39c66536fc03">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Errores de sintaxis" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+</Project>

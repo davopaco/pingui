@@ -4,7 +4,7 @@
 # EXPLICACION
  - A continuación explico qué tiene este repositorio y cómo vamos a trabajar con GITHUB DESKTOP para el source control y el manejo tanto de la documentación como la de los recursos.
  - Como sabrán tendrán que descargar el repositorio en cada uno de sus dispositivos y cuando hagan trabajos/cambios deberán hacer un "pull request" que yo tendré que aceptar para que se fusionen lo que trabajen.
- - Pueden trabajar en distintas branches o en la main, pero recomiendo que si van a hacer un trabajo medio grandesito (i.e. toma de decisiones) lo hagan en la "main".
+ - Deben trabajr en distintas branches que funcionan como las versiones que están haciendo, así que si, por ejemplo, se hace lo de toma de decisiones, se crea una branch que se llame "toma de decisiones" y luego hacen el pull request para poder fusionaer el proyecto con la main branch.
  - Si tienen problemas me pueden contactar por WhatsApp y ahí intento solucionarlo (con respecto al repositorio, I mean).
 
 # IMPORTANTE!!

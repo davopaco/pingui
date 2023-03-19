@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "pausa",
-  "bbox_bottom": 109,
+  "bbox_bottom": 107,
   "bbox_left": 0,
   "bbox_right": 109,
-  "bbox_top": 0,
+  "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -15,8 +15,8 @@
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"39419e0c-e0e9-453e-9f60-a79586aa4a39",},
   ],
-  "gridX": 0,
-  "gridY": 0,
+  "gridX": 5,
+  "gridY": 20,
   "height": 110,
   "HTile": false,
   "layers": [

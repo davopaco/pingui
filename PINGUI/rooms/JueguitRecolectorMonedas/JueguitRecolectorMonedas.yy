@@ -13,7 +13,6 @@
     {"name":"inst_70A5A0D6","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
     {"name":"inst_5EAA2AEF","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
     {"name":"inst_8CFDA7C","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
-    {"name":"inst_1A3F692D","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -24,7 +23,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_70A5A0D6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_roca","path":"objects/obj_roca/obj_roca.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":-768.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5EAA2AEF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"buttonPausa","path":"objects/buttonPausa/buttonPausa.yy",},"properties":[],"rotation":0.0,"scaleX":0.7181818,"scaleY":0.6818182,"x":1817.0,"y":33.5,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_8CFDA7C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_reloj","path":"objects/obj_reloj/obj_reloj.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":10.0,"y":96.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1A3F692D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"play","path":"objects/play/play.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":576.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Backgrounds_1","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"Fondo","path":"sprites/Fondo/Fondo.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

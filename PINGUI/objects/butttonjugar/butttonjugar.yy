@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "play",
-  "eventList": [],
+  "name": "butttonjugar",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,9 +28,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "btn_cuadrado",
-    "path": "sprites/btn_cuadrado/btn_cuadrado.yy",
+    "name": "jugar",
+    "path": "sprites/jugar/jugar.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

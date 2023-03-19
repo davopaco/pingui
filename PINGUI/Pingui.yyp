@@ -36,6 +36,7 @@
     {"id":{"name":"play","path":"objects/play/play.yy",},},
     {"id":{"name":"Pingui_mascot","path":"objects/Pingui_mascot/Pingui_mascot.yy",},},
     {"id":{"name":"JueguitRecolectorMonedas","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"fnt_pingui03","path":"fonts/fnt_pingui03/fnt_pingui03.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"controlador","path":"objects/controlador/controlador.yy",},},

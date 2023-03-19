@@ -1,12 +1,6 @@
 # PINGUI
  Juego con énfasis en pedagogía financiera.
 
-# EXPLICACION
- - A continuación explico qué tiene este repositorio y cómo vamos a trabajar con GITHUB DESKTOP para el source control y el manejo tanto de la documentación como la de los recursos.
- - Como sabrán tendrán que descargar el repositorio en cada uno de sus dispositivos y cuando hagan trabajos/cambios deberán hacer un "pull request" que yo tendré que aceptar para que se fusionen lo que trabajen.
- - Deben trabajr en distintas branches que funcionan como las versiones que están haciendo, así que si, por ejemplo, se hace lo de toma de decisiones, se crea una branch que se llame "toma de decisiones" y luego hacen el pull request para poder fusionaer el proyecto con la main branch.
- - Si tienen problemas me pueden contactar por WhatsApp (Santiago) y ahí intento solucionarlo (con respecto al repositorio, I mean).
-
 # IMPORTANTE!!
  - Todo aquello que lleven como los cronogramas, el storyboard, o demás archivos, métanlos en la carpeta "RESOURCES" y si quieren pueden crear carpetas para organizar las cositas.
  - La carpeta "DOCUMENTATION" está solo para poner los documentos como la especificación de requirimientos y la formulación del proyecto.

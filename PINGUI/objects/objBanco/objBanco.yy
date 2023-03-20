@@ -1,17 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_reloj",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-  ],
+  "name": "objBanco",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "JueguitoMonedas",
-    "path": "folders/Objects/JueguitoMonedas.yy",
+    "name": "AyudaBanco",
+    "path": "folders/Objects/AyudaBanco.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -29,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Bamco",
+    "path": "sprites/Bamco/Bamco.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

@@ -10,8 +10,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"buttonParent","path":"objects/buttonParent/buttonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/buttonParent/buttonParent.yy",},"value":"Reiniciar",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "JueguitoMonedas",
+    "path": "folders/Objects/JueguitoMonedas.yy",
   },
   "parentObjectId": {
     "name": "buttonParent",

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "pingui_logo",
-  "bbox_bottom": 209,
+  "name": "Bamco",
+  "bbox_bottom": 599,
   "bbox_left": 0,
-  "bbox_right": 799,
+  "bbox_right": 998,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a4eac2d5-e9cb-4414-9da8-febe0e5c04b7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"621c5c9b-830d-47bf-84dc-57e94f8d1a98",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 210,
+  "height": 600,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ca51201d-e03d-4b73-b849-a103b06a5bf5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c72f6adb-8d5e-4b49-a8c4-a6fd0d3d6c4c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "pingui_logo",
+    "name": "Bamco",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a4eac2d5-e9cb-4414-9da8-febe0e5c04b7","path":"sprites/pingui_logo/pingui_logo.yy",},},},"Disabled":false,"id":"58b63f60-8188-4bde-a7cc-f270fffe3ccf","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"621c5c9b-830d-47bf-84dc-57e94f8d1a98","path":"sprites/Bamco/Bamco.yy",},},},"Disabled":false,"id":"df3c63d1-aca5-4f9a-b4f5-834da57ddace","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 800,
+  "width": 1000,
 }

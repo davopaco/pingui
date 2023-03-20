@@ -1,21 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "buttonMenu",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
-  ],
+  "name": "buttonAceptar",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"buttonParent","path":"objects/buttonParent/buttonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/buttonParent/buttonParent.yy",},"value":"Menu",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"Aceptar",},
   ],
   "parent": {
-    "name": "JueguitoMonedas",
-    "path": "folders/Objects/JueguitoMonedas.yy",
+    "name": "AyudaBanco",
+    "path": "folders/Objects/AyudaBanco.yy",
   },
   "parentObjectId": {
-    "name": "buttonParent",
-    "path": "objects/buttonParent/buttonParent.yy",
+    "name": "obj_button_parent",
+    "path": "objects/obj_button_parent/obj_button_parent.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

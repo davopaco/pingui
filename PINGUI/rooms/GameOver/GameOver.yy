@@ -7,18 +7,18 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_1F2A9B0C","path":"rooms/GameOver/GameOver.yy",},
-    {"name":"inst_36E930FB","path":"rooms/GameOver/GameOver.yy",},
     {"name":"inst_7EB0C5B6","path":"rooms/GameOver/GameOver.yy",},
     {"name":"inst_1AF90E44","path":"rooms/GameOver/GameOver.yy",},
+    {"name":"inst_11A81091","path":"rooms/GameOver/GameOver.yy",},
+    {"name":"inst_21EEF2BC","path":"rooms/GameOver/GameOver.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":20,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1F2A9B0C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"buttonResert","path":"objects/buttonResert/buttonResert.yy",},"properties":[],"rotation":0.0,"scaleX":1.2794411,"scaleY":1.2962962,"x":960.0,"y":672.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_36E930FB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_button_jugar","path":"objects/obj_button_jugar/obj_button_jugar.yy",},"properties":[],"rotation":0.0,"scaleX":1.2794411,"scaleY":1.2962962,"x":260.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7EB0C5B6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Fin_Juego","path":"objects/Fin_Juego/Fin_Juego.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":119.0,"y":111.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1AF90E44","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_dibujarSaldo","path":"objects/obj_dibujarSaldo/obj_dibujarSaldo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":940.0,"y":544.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_11A81091","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"buttonMenu","path":"objects/buttonMenu/buttonMenu.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_21EEF2BC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"buttonResert","path":"objects/buttonResert/buttonResert.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1100.0,"y":704.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"pingui_bg1920x1080","path":"sprites/pingui_bg1920x1080/pingui_bg1920x1080.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

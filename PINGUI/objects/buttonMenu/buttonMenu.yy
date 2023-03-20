@@ -2,14 +2,17 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "buttonMenu",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"buttonParent","path":"objects/buttonParent/buttonParent.yy",},"propertyId":{"name":"buttonText","path":"objects/buttonParent/buttonParent.yy",},"value":"Menu",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"buttonParent","path":"objects/buttonParent/buttonParent.yy",},"propertyId":{"name":"colortext","path":"objects/buttonParent/buttonParent.yy",},"value":"c_olive",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "JueguitoMonedas",
+    "path": "folders/Objects/JueguitoMonedas.yy",
   },
   "parentObjectId": {
     "name": "buttonParent",
@@ -31,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "btn_rectangulo",
-    "path": "sprites/btn_rectangulo/btn_rectangulo.yy",
+    "name": "button",
+    "path": "sprites/button/button.yy",
   },
   "spriteMaskId": null,
   "visible": true,

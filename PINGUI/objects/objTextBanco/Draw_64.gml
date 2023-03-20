@@ -9,6 +9,6 @@ draw_text_ext(_x,_y, textMostrar,60,766);
 
 if(textMostrar==text){
 	draw_set_color(c_white);
-	var c_text= string(global.points);
-	draw_text(1000,450, c_text + " monedas");
+	//var c_text= string(global.points);
+	draw_text(1000,450,   " monedas");
 }

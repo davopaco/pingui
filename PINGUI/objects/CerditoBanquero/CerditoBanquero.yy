@@ -1,20 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "buttonAceptar",
-  "eventList": [],
-  "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"Aceptar",},
+  "name": "CerditoBanquero",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
+  "managed": true,
+  "overriddenProperties": [],
   "parent": {
     "name": "AyudaBanco",
     "path": "folders/Objects/AyudaBanco.yy",
   },
-  "parentObjectId": {
-    "name": "obj_button_parent",
-    "path": "objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "btn_rectangulo",
-    "path": "sprites/btn_rectangulo/btn_rectangulo.yy",
+    "name": "cerditoBanquero",
+    "path": "sprites/cerditoBanquero/cerditoBanquero.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -18,8 +18,10 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"MenuNiveles","order":25,"path":"folders/Objects/MenuNiveles.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_nivel_3","order":2,"path":"objects/obj_nivel_3/obj_nivel_3.yy",},
     {"name":"buttonAceptar","order":4,"path":"objects/buttonAceptar/buttonAceptar.yy",},
     {"name":"Pingui_mascot","order":4,"path":"objects/Pingui_mascot/Pingui_mascot.yy",},
     {"name":"buttonReiniciar","order":6,"path":"objects/buttonReiniciar/buttonReiniciar.yy",},
@@ -68,6 +70,7 @@
     {"name":"Pausemenu","order":2,"path":"rooms/Pausemenu/Pausemenu.yy",},
     {"name":"pingui","order":14,"path":"sprites/pingui/pingui.yy",},
     {"name":"GameOver","order":1,"path":"rooms/GameOver/GameOver.yy",},
+    {"name":"obj_nivel_2","order":1,"path":"objects/obj_nivel_2/obj_nivel_2.yy",},
     {"name":"btn_rectangulo","order":27,"path":"sprites/btn_rectangulo/btn_rectangulo.yy",},
     {"name":"obj_dibujarSaldo","order":9,"path":"objects/obj_dibujarSaldo/obj_dibujarSaldo.yy",},
     {"name":"butttonjugar","order":3,"path":"objects/butttonjugar/butttonjugar.yy",},

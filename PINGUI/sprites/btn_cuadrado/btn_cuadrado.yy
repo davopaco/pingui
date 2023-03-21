@@ -4,7 +4,7 @@
   "name": "btn_cuadrado",
   "bbox_bottom": 215,
   "bbox_left": 0,
-  "bbox_right": 261,
+  "bbox_right": 259,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,

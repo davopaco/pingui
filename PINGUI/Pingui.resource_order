@@ -33,6 +33,7 @@
     {"name":"Fin_Juego","order":5,"path":"objects/Fin_Juego/Fin_Juego.yy",},
     {"name":"butParent","order":5,"path":"objects/butParent/butParent.yy",},
     {"name":"fnt_pingui0240","order":3,"path":"fonts/fnt_pingui0240/fnt_pingui0240.yy",},
+    {"name":"MenuNiveles","order":5,"path":"rooms/MenuNiveles/MenuNiveles.yy",},
     {"name":"Pinguin","order":1,"path":"sprites/Pinguin/Pinguin.yy",},
     {"name":"objTextBanco","order":1,"path":"objects/objTextBanco/objTextBanco.yy",},
     {"name":"Fon_txt","order":5,"path":"fonts/Fon_txt/Fon_txt.yy",},

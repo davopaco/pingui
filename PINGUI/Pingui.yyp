@@ -51,6 +51,7 @@
     {"id":{"name":"Fin_Juego","path":"objects/Fin_Juego/Fin_Juego.yy",},},
     {"id":{"name":"butParent","path":"objects/butParent/butParent.yy",},},
     {"id":{"name":"fnt_pingui0240","path":"fonts/fnt_pingui0240/fnt_pingui0240.yy",},},
+    {"id":{"name":"MenuNiveles","path":"rooms/MenuNiveles/MenuNiveles.yy",},},
     {"id":{"name":"Pinguin","path":"sprites/Pinguin/Pinguin.yy",},},
     {"id":{"name":"objTextBanco","path":"objects/objTextBanco/objTextBanco.yy",},},
     {"id":{"name":"Fon_txt","path":"fonts/Fon_txt/Fon_txt.yy",},},
@@ -107,6 +108,7 @@
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
     {"roomId":{"name":"Pausemenu","path":"rooms/Pausemenu/Pausemenu.yy",},},
     {"roomId":{"name":"mainmenu","path":"rooms/mainmenu/mainmenu.yy",},},
+    {"roomId":{"name":"MenuNiveles","path":"rooms/MenuNiveles/MenuNiveles.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

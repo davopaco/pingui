@@ -4,4 +4,4 @@ draw_set_color($FF51B3CC);
 draw_set_font(fontGrande);
 var texto = string(global.points);
 draw_set_halign(fa_center);
-draw_text(x,y,"Saldo Ganadao: " + texto);
+draw_text(x,y,"Saldo Ganado: " + texto);

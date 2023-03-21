@@ -5,11 +5,11 @@
  {
 	 segundos++;
 	 if(segundos == 40){
-		 if(global.points>=30){
+		 if(global.points>=16){
 			  room_goto(GameOver);
 		 }
 		 else{
-		 global.points = 30 - global.points; 
+		 global.points = 16 - global.points; 
 		 room_goto(AyudaBanco);
 		 }
 		 	 

@@ -39,6 +39,7 @@
     {"name":"MenuNiveles","order":5,"path":"rooms/MenuNiveles/MenuNiveles.yy",},
     {"name":"Pinguin","order":1,"path":"sprites/Pinguin/Pinguin.yy",},
     {"name":"objTextBanco","order":1,"path":"objects/objTextBanco/objTextBanco.yy",},
+    {"name":"controladorData","order":3,"path":"objects/controladorData/controladorData.yy",},
     {"name":"Fon_txt","order":5,"path":"fonts/Fon_txt/Fon_txt.yy",},
     {"name":"fondito","order":9,"path":"sprites/fondito/fondito.yy",},
     {"name":"buttonParent","order":7,"path":"objects/buttonParent/buttonParent.yy",},

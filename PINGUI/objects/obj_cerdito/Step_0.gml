@@ -1,6 +1,3 @@
-  /// @description Insert description here
-// You can write your code in this editor
-
 // Establecer la velocidad de caída
 
 y += fall_speed;

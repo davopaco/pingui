@@ -7,7 +7,7 @@
 			  room_goto(GameOver);
 		 }
 		 else{
-		 global.points = 16 - global.points; 
+		 global.points += 16 - global.points; 
 		 room_goto(AyudaBanco);
 		 }	 
 	 }

@@ -98,6 +98,7 @@
     {"id":{"name":"btn_rectangulo","path":"sprites/btn_rectangulo/btn_rectangulo.yy",},},
     {"id":{"name":"obj_cerdito","path":"objects/obj_cerdito/obj_cerdito.yy",},},
     {"id":{"name":"butttonjugar","path":"objects/butttonjugar/butttonjugar.yy",},},
+    {"id":{"name":"controladorPuntos","path":"objects/controladorPuntos/controladorPuntos.yy",},},
     {"id":{"name":"Bamco","path":"sprites/Bamco/Bamco.yy",},},
     {"id":{"name":"fontGrande","path":"fonts/fontGrande/fontGrande.yy",},},
     {"id":{"name":"obj_button_jugar","path":"objects/obj_button_jugar/obj_button_jugar.yy",},},

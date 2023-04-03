@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(y==736){
-	vspeed=-17;
-	gravity=0.4;
-}
+instance_create_layer(1920,480,"Instances",objRoquitVol);
+alarm_set(4,200);
+
+
+
+

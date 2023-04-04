@@ -74,6 +74,7 @@
     {"id":{"name":"buttonResert","path":"objects/buttonResert/buttonResert.yy",},},
     {"id":{"name":"buttoResert","path":"objects/buttoResert/buttoResert.yy",},},
     {"id":{"name":"obj_nivel_1","path":"objects/obj_nivel_1/obj_nivel_1.yy",},},
+    {"id":{"name":"DisplaySize","path":"objects/DisplaySize/DisplaySize.yy",},},
     {"id":{"name":"pingui_right","path":"sprites/pingui_right/pingui_right.yy",},},
     {"id":{"name":"Mecanico","path":"sprites/Mecanico/Mecanico.yy",},},
     {"id":{"name":"jugar","path":"sprites/jugar/jugar.yy",},},

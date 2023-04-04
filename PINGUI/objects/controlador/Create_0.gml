@@ -1,2 +1,2 @@
-global.points = 0;
+global.points=0;
 global.perder = true;

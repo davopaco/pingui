@@ -53,6 +53,7 @@
     {"name":"obj_pinguin","order":1,"path":"objects/obj_pinguin/obj_pinguin.yy",},
     {"name":"buttonResert","order":8,"path":"objects/buttonResert/buttonResert.yy",},
     {"name":"buttoResert","order":2,"path":"objects/buttoResert/buttoResert.yy",},
+    {"name":"DisplaySize","order":6,"path":"objects/DisplaySize/DisplaySize.yy",},
     {"name":"pingui_right","order":20,"path":"sprites/pingui_right/pingui_right.yy",},
     {"name":"Mecanico","order":13,"path":"sprites/Mecanico/Mecanico.yy",},
     {"name":"jugar","order":22,"path":"sprites/jugar/jugar.yy",},

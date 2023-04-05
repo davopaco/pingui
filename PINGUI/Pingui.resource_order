@@ -58,6 +58,8 @@
     {"name":"buttonResert","order":8,"path":"objects/buttonResert/buttonResert.yy",},
     {"name":"objCerdito2","order":3,"path":"objects/objCerdito2/objCerdito2.yy",},
     {"name":"buttoResert","order":2,"path":"objects/buttoResert/buttoResert.yy",},
+    {"name":"DisplaySize","order":6,"path":"objects/DisplaySize/DisplaySize.yy",},
+    {"name":"LogHelper","order":1,"path":"scripts/LogHelper/LogHelper.yy",},
     {"name":"sprPingui","order":1,"path":"sprites/sprPingui/sprPingui.yy",},
     {"name":"pingui_right","order":15,"path":"sprites/pingui_right/pingui_right.yy",},
     {"name":"Mecanico","order":10,"path":"sprites/Mecanico/Mecanico.yy",},

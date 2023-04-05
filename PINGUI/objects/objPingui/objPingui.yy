@@ -1,21 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "buttoResert",
+  "name": "objPingui",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":13,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "PauseMenu",
-    "path": "folders/Objects/PauseMenu.yy",
+    "name": "Jueguito2",
+    "path": "folders/Objects/Jueguito2.yy",
   },
-  "parentObjectId": {
-    "name": "obj_button_parent",
-    "path": "objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -32,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "reiniciar",
-    "path": "sprites/reiniciar/reiniciar.yy",
+    "name": "sprPingui",
+    "path": "sprites/sprPingui/sprPingui.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -13,7 +13,7 @@ if(global.contar == 14){
 	global.contar+=1;
 }
 
-
 if(global.contar == 15){
-	
+	instance_create_layer(2016,960,"Instances",objCerdito2);
+	alarm_set(5,800);
 }

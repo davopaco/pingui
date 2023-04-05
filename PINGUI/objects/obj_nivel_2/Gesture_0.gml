@@ -1,4 +1,3 @@
  /// @description Insert description here
 // You can write your code in this editor
-instance_destroy();
-global.poinJuego+=2;
+room_goto(Jueguito2);

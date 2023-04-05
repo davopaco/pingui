@@ -1,4 +1,4 @@
-  /// @description Insert description here
+   /// @description Insert description here
 // You can write your code in this editor
 var _x = 736;
 var _y = 224;
@@ -9,6 +9,7 @@ draw_text_ext(_x,_y, textMostrar,60,766);
 
 if(textMostrar==text){
 	draw_set_color(c_white);
-	var c_text= string(global.points);
+	var c_text= string(global.poinJuego);
 	draw_text(1000,450, c_text + " pigcoin");
 }
+

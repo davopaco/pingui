@@ -80,6 +80,7 @@
     {"id":{"name":"jugar","path":"sprites/jugar/jugar.yy",},},
     {"id":{"name":"pingui_left","path":"sprites/pingui_left/pingui_left.yy",},},
     {"id":{"name":"pausa","path":"sprites/pausa/pausa.yy",},},
+    {"id":{"name":"LogHelper","path":"scripts/LogHelper/LogHelper.yy",},},
     {"id":{"name":"obj_button_INSTRUCCIONES","path":"objects/obj_button_INSTRUCCIONES/obj_button_INSTRUCCIONES.yy",},},
     {"id":{"name":"buttonMenu","path":"objects/buttonMenu/buttonMenu.yy",},},
     {"id":{"name":"reiniciar","path":"sprites/reiniciar/reiniciar.yy",},},

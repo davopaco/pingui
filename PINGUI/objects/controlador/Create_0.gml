@@ -1,3 +1,3 @@
-global.points = 0;
-global.room = "jueguito1";
+global.poinJuego = 0;
+
 global.perder = true;

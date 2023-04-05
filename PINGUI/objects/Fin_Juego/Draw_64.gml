@@ -1,4 +1,4 @@
-if(global.perder){
+ if(global.perder){
 	draw_set_font(fontGrande);
 
 	draw_set_colour($FF51B3CC & $ffffff);
@@ -17,7 +17,7 @@ if(global.perder){
 	
 	draw_set_color($FF51B3CC);
 	draw_set_font(fontGrande);
-	var texto = string(global.points);
+	var texto = string(global.poinJuego);
 	draw_set_halign(fa_center);
 	draw_text(960, 400, "Felicidades!");
 	draw_text(960,500,"Saldo Ganado: " + texto);

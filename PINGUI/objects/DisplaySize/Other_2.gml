@@ -1,3 +1,5 @@
+global.reset=false;
+global.home=false;
 var screenWidth = display_get_width();
 var screenHeight = display_get_height();
 

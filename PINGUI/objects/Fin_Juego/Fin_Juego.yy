@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "JueguitoMonedas",
-    "path": "folders/Objects/JueguitoMonedas.yy",
+    "name": "GameOver",
+    "path": "folders/Objects/GameOver.yy",
   },
   "parentObjectId": null,
   "persistent": false,

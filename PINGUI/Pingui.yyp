@@ -34,6 +34,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TempRoom","folderPath":"folders/Objects/TempRoom.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Ajustes","folderPath":"folders/Objects/Ajustes.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -73,6 +74,7 @@
     {"id":{"name":"objPingui","path":"objects/objPingui/objPingui.yy",},},
     {"id":{"name":"objBanco","path":"objects/objBanco/objBanco.yy",},},
     {"id":{"name":"pingui_bg1920x1080","path":"sprites/pingui_bg1920x1080/pingui_bg1920x1080.yy",},},
+    {"id":{"name":"Ajustes","path":"rooms/Ajustes/Ajustes.yy",},},
     {"id":{"name":"PINGUI_LOGO","path":"objects/PINGUI_LOGO/PINGUI_LOGO.yy",},},
     {"id":{"name":"JsonHelper","path":"scripts/JsonHelper/JsonHelper.yy",},},
     {"id":{"name":"cerditoBanquero","path":"sprites/cerditoBanquero/cerditoBanquero.yy",},},
@@ -137,6 +139,7 @@
     {"roomId":{"name":"JueguitRecolectorMonedas","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},},
     {"roomId":{"name":"MenuNiveles","path":"rooms/MenuNiveles/MenuNiveles.yy",},},
     {"roomId":{"name":"TempRoom","path":"rooms/TempRoom/TempRoom.yy",},},
+    {"roomId":{"name":"Ajustes","path":"rooms/Ajustes/Ajustes.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

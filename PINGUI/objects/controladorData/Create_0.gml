@@ -1,5 +1,4 @@
 var filename = "gamedata.json";
-//Cargar variables
 if(file_exists(filename)){
 	global.gameData=import_from_json(filename, json_parse);
 } else {

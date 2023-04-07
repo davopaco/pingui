@@ -23,6 +23,7 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
     {"name":"TempRoom","order":27,"path":"folders/Objects/TempRoom.yy",},
+    {"name":"Ajustes","order":28,"path":"folders/Objects/Ajustes.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_nivel_3","order":2,"path":"objects/obj_nivel_3/obj_nivel_3.yy",},
@@ -48,6 +49,7 @@
     {"name":"buttonParent","order":7,"path":"objects/buttonParent/buttonParent.yy",},
     {"name":"obj_roca","order":2,"path":"objects/obj_roca/obj_roca.yy",},
     {"name":"pingui_bg1920x1080","order":2,"path":"sprites/pingui_bg1920x1080/pingui_bg1920x1080.yy",},
+    {"name":"Ajustes","order":8,"path":"rooms/Ajustes/Ajustes.yy",},
     {"name":"PINGUI_LOGO","order":3,"path":"objects/PINGUI_LOGO/PINGUI_LOGO.yy",},
     {"name":"cerditoBanquero","order":21,"path":"sprites/cerditoBanquero/cerditoBanquero.yy",},
     {"name":"sprRoquiVol","order":5,"path":"sprites/sprRoquiVol/sprRoquiVol.yy",},

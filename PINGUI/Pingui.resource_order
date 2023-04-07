@@ -69,7 +69,6 @@
     {"name":"jugar","order":17,"path":"sprites/jugar/jugar.yy",},
     {"name":"pingui_left","order":14,"path":"sprites/pingui_left/pingui_left.yy",},
     {"name":"pausa","order":5,"path":"sprites/pausa/pausa.yy",},
-    {"name":"LogHelper","order":1,"path":"scripts/LogHelper/LogHelper.yy",},
     {"name":"obj_button_INSTRUCCIONES","order":2,"path":"objects/obj_button_INSTRUCCIONES/obj_button_INSTRUCCIONES.yy",},
     {"name":"buttonMenu","order":6,"path":"objects/buttonMenu/buttonMenu.yy",},
     {"name":"reiniciar","order":18,"path":"sprites/reiniciar/reiniciar.yy",},

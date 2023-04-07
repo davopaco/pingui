@@ -1,0 +1,3 @@
+e-mail address : "pingui.feedback@gmail.com"
+password : "ctsispkfbsrfajlt"
+port: 465

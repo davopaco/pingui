@@ -1,4 +1,4 @@
-global.points = 0;
+global.puntos = 0;
 global.home=true;
 global.reset=true;
 if(global.room == "jueguito1"){

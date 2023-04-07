@@ -1,12 +1,18 @@
 #region Create json file
-var puntos = global.poinJuego;
-var filename= "gamedata.json";
-//Crear el archivo json una vez se han almacenado puntos.	
-var gameData = ds_map_create();
-gameData[? "score"] = puntos;
-
-export_to_json(filename, gameData);
-ds_map_destroy(gameData);
-
+	if(global.room=="jueguito1"){
+		global.gameData[1].points = global.poinJuego;
+	}
+	if(global.room=="jueguito2"){
+		global.gameData[2].points = global.poinJuego;
+	}
+	if(global.room=="jueguito3"){
+		global.gameData[3].points = global.poinJuego;
+	}
+	var _length=array_length(global.gameData);
+	global.gameData[0].points=0;
+	for(var i=1; i<_length; i++){
+		global.gameData[0].points+=global.gameData[i].points;
+	}
+	global.puntos=global.gameData[0].points;
 #endregion
 

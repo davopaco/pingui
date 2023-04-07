@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editorro
+global.reset=true;
 if(global.room == "jueguito1"){
 	room_goto(JueguitRecolectorMonedas);
 }

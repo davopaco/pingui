@@ -1,5 +1,5 @@
 if(global.gameIsPaused ==false){
 	global.gameIsPaused=true;
-	game_save("pausa.sav");
+	room_persistent=true;
 	room_goto(Pausemenu);
 }

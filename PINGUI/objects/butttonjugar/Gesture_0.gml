@@ -1,5 +1,9 @@
  if(global.gameIsPaused ==true){
 	global.gameIsPaused=false;
-	game_load("pausa.sav"); 
-	room_goto(room_last);
+	if(global.room == "jueguito1"){
+		room_goto(JueguitRecolectorMonedas);
+	}
+	if(global.room = "jueguito2"){
+		room_goto(Jueguito2);
+	}
 }

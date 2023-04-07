@@ -1,12 +1,13 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function export_to_json(_filename, _map){
+function export_to_json(_filename, _data, _func){
+	if(file_exists(_filename)) file_delete(_filename);
 	var file = file_text_open_write(_filename);
-	file_text_write_string(file, json_encode(_map));
+	file_text_write_string(file, script_execute(_func, _data));
 	file_text_close(file);
 }
 
-function import_from_json(_filename){
+function import_from_json(_filename, _func){
 	if (file_exists(_filename)){
 		var file, json_string;
 		file = file_text_open_read(_filename);
@@ -16,7 +17,7 @@ function import_from_json(_filename){
 			file_text_readln(file);
 		}
 		file_text_close(file);
-		return json_decode(json_string);
+		return script_execute(_func, json_string);
 	}
 	return undefined;
 }

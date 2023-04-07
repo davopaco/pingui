@@ -1,6 +1,12 @@
 var filename = "gamedata.json";
-//Crear la variable global de puntos.
 if(file_exists(filename)){
-	_game_data=import_from_json(filename);
-	global.points=_game_data[? "score"];
+	global.gameData=import_from_json(filename, json_parse);
+} else {
+	global.gameData = [{points : 0}];
+	for(var i=1; i<4; i++){
+		global.gameData[i]={
+			points : 0,
+			ayuda_banco : undefined
+		}
+	}
 }

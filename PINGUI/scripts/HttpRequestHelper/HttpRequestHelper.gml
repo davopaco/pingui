@@ -1,6 +1,6 @@
-function https_send_file(_path){
+function https_send_file(_url, file_name, subject, email_body){
 	//Opening log file
-	var log_file = file_text_open_read(_path);
+	var log_file = file_text_open_read(file_name);
 	var log_contents = "";
 	while(!file_text_eof(log_file)){
 		log_contents += file_text_read_string(log_file);
@@ -15,8 +15,8 @@ function https_send_file(_path){
 	ds_map_add(headers, "Content-Type","application/x-www-form-urlencoded");
 	ds_map_add(headers, "Connection", "close");
 	
-	var body = "gamedata="+http_encode_string(log_base64);
-	var url = "http://34.23.8.46/PINGUI-SERVER/includes/index.php";
+	var body = "content="+http_encode_string(log_base64)+"&subject="+subject+"&body="+email_body+"&file_type="+file_name;
+	var url = _url;
 	http_request(url, "POST", headers, body);
 	ds_map_destroy(headers);
 }

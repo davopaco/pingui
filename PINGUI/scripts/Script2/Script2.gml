@@ -12,13 +12,12 @@ function https_send_file(_path){
 	//Encode log in base64
 	var log_base64 = base64_encode(log_contents);
 	var headers = ds_map_create();
-	ds_map_add(headers, "ssl_verify_peer", "0");
 	ds_map_add(headers, "Content-Type","application/x-www-form-urlencoded");
 	ds_map_add(headers, "Content-Length",string_length(log_base64));
 	ds_map_add(headers, "Connection", "close");
 	
 	var body = "log="+http_encode_string(log_base64);
-	var url = "https://104.196.140.209/PINGUI-SERVER/includes/"
+	var url = "http://34.23.8.46/PINGUI-SERVER/includes";
 	http_request(url, "POST", headers, body);
 	ds_map_destroy(headers);
 }

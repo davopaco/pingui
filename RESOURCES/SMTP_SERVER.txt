@@ -39,6 +39,9 @@ The key's randomart image is:
 |   ..+O+oo.      |
 +----[SHA256]-----+
 
+##phpmyadmin password
+Pinguimejorjuego12.
+
 #MYSQL USERS
 
 root

@@ -1,5 +1,3 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function export_to_json(_filename, _data, _func){
 	if(file_exists(_filename)) file_delete(_filename);
 	var file = file_text_open_write(_filename);

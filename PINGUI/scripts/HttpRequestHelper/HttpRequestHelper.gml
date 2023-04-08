@@ -1,4 +1,4 @@
-function https_send_file(_url, file_name, subject, email_body){
+function http_send_file(_url, file_name, subject, email_body){
 	//Opening log file
 	var log_file = file_text_open_read(file_name);
 	var log_contents = "";

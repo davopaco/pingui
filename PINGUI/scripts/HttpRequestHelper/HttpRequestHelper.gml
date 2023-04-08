@@ -13,11 +13,11 @@ function https_send_file(_path){
 	var log_base64 = base64_encode(log_contents);
 	var headers = ds_map_create();
 	ds_map_add(headers, "Content-Type","application/x-www-form-urlencoded");
-	ds_map_add(headers, "Content-Length",string_length(log_base64));
+	ds_map_add(headers, "Content-Length",string_length(log_base64)+1);
 	ds_map_add(headers, "Connection", "close");
 	
-	var body = "log="+http_encode_string(log_base64);
-	var url = "http://34.23.8.46/PINGUI-SERVER/includes";
+	var body = "gamedata="+http_encode_string(log_base64);
+	var url = "http://34.23.8.46/PINGUI-SERVER/includes/index.php";
 	http_request(url, "POST", headers, body);
 	ds_map_destroy(headers);
 }

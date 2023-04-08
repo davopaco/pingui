@@ -95,7 +95,7 @@
     {"name":"obj_button_jugar","order":1,"path":"objects/obj_button_jugar/obj_button_jugar.yy",},
     {"name":"sprPiso","order":3,"path":"sprites/sprPiso/sprPiso.yy",},
     {"name":"Jueguito2","order":6,"path":"rooms/Jueguito2/Jueguito2.yy",},
-    {"name":"Script2","order":1,"path":"scripts/Script2/Script2.yy",},
+    {"name":"HttpRequestHelper","order":1,"path":"scripts/HttpRequestHelper/HttpRequestHelper.yy",},
     {"name":"buttonPausa","order":1,"path":"objects/buttonPausa/buttonPausa.yy",},
     {"name":"menu","order":19,"path":"sprites/menu/menu.yy",},
     {"name":"btn_cuadrado","order":3,"path":"sprites/btn_cuadrado/btn_cuadrado.yy",},

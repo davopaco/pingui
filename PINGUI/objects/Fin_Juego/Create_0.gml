@@ -1,4 +1,4 @@
-#region Create json file
+#region Append data to the global variable gameData
 	if(global.room=="jueguito1"){
 		global.gameData[1].points = global.poinJuego;
 	}

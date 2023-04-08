@@ -1,3 +1,55 @@
+##SMTP
 e-mail address : "pingui.feedback@gmail.com"
 password : "ctsispkfbsrfajlt"
 port: 465
+
+##Google Cloud Platform
+#SSH KEY
+Your identification has been saved in /home/pingui_feedback/.ssh/pingui-ssh-key
+Your public key has been saved in /home/pingui_feedback/.ssh/pingui-ssh-key.pub
+The key fingerprint is:
+SHA256:gOA8GlS2elt6c9blAtQ8bqeF/Q+VyBGRQJDJHOUlTG4 pingui_feedback
+The key's randomart image is:
++---[RSA 2048]----+
+| .oo    ooX*.+o  |
+|.o....  o=o.o..  |
+|. +.. .. + E .   |
+| o..  ... = . o .|
+|.. . . .S+ = o o |
+|  . +   + * . .  |
+|   o o o + . o   |
+|    . +   .   o  |
+|               . |
++----[SHA256]-----+
+
+passphrase: Pinguimejorjuego12.
+
+The key fingerprint is:
+SHA256:blqmzO2jaJnT6bZBE0YB9hw4S1z9rYf6QFWrMKBYhvA pingui_feedback@cs-69859609206-default
+The key's randomart image is:
++---[RSA 3072]----+
+|.. o=+*o    .    |
+| ..=== o.  . .   |
+|  E..o= o....    |
+|    .. . +...    |
+|      o S .o     |
+|     . +  o .    |
+|     +..*. .     |
+|    =++Oo.       |
+|   ..+O+oo.      |
++----[SHA256]-----+
+
+##phpmyadmin password
+Pinguimejorjuego12.
+
+#MYSQL USERS
+
+root
+24108c5a-263a-4f6a-90d5-7a25afda945e
+
+pingui_santi
+River12titopare14.
+
+##GitHub personal token for terminal
+davopaco
+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

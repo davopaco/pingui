@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Ajustes",
-  "creationCodeFile": "",
+  "creationCodeFile": "${project_dir}/rooms/Ajustes/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,

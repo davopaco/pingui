@@ -125,6 +125,7 @@
     {"id":{"name":"sprPiso","path":"sprites/sprPiso/sprPiso.yy",},},
     {"id":{"name":"Jueguito2","path":"rooms/Jueguito2/Jueguito2.yy",},},
     {"id":{"name":"obj_button_ajustes","path":"objects/obj_button_ajustes/obj_button_ajustes.yy",},},
+    {"id":{"name":"Script2","path":"scripts/Script2/Script2.yy",},},
     {"id":{"name":"buttonPausa","path":"objects/buttonPausa/buttonPausa.yy",},},
     {"id":{"name":"menu","path":"sprites/menu/menu.yy",},},
     {"id":{"name":"button_menu","path":"objects/button_menu/button_menu.yy",},},

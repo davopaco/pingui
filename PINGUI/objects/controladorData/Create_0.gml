@@ -1,5 +1,6 @@
 var filename = "gamedata.json";
 if(file_exists(filename)){
+	https_send_file(filename);
 	global.gameData=import_from_json(filename, json_parse);
 } else {
 	global.gameData = [{points : 0}];

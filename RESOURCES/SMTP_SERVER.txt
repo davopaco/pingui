@@ -1,9 +1,10 @@
+##SMTP
 e-mail address : "pingui.feedback@gmail.com"
 password : "ctsispkfbsrfajlt"
 port: 465
 
-Google Cloud Platform
-##SSH KEY
+##Google Cloud Platform
+#SSH KEY
 Your identification has been saved in /home/pingui_feedback/.ssh/pingui-ssh-key
 Your public key has been saved in /home/pingui_feedback/.ssh/pingui-ssh-key.pub
 The key fingerprint is:
@@ -38,10 +39,14 @@ The key's randomart image is:
 |   ..+O+oo.      |
 +----[SHA256]-----+
 
-##MYSQL USERS
+#MYSQL USERS
 
 root
 24108c5a-263a-4f6a-90d5-7a25afda945e
 
 pingui_santi
 River12titopare14.
+
+##GitHub personal token for terminal
+davopaco
+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

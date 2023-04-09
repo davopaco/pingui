@@ -2,7 +2,8 @@ function error_content(_exception){
 	try {
 		var filename = "errors.log";
 		var timestamp = "["+current_date_timestamp_string()+"] == ";
-		var device_info = "device:"+os_get_info("device")+" os:"+os_get_info("os")+" version:"+os_get_info("version");
+		var os_info = os_get_info();
+		var device_info = "device:"+os_info[? "DEVICE"]+" os: Android"+" version:"+os_info[? "VERSION"];
 		var error_message = _exception.longMessage;
 		var location = _exception.script;
 		var stack_trace = _exception.stacktrace;

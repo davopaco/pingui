@@ -18,6 +18,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Ajustes","folderPath":"folders/Objects/Ajustes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"AyudaBanco","folderPath":"folders/Objects/AyudaBanco.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"ErrorRoom","folderPath":"folders/Objects/ErrorRoom.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GameOver","folderPath":"folders/Objects/GameOver.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Jueguito2","folderPath":"folders/Objects/Jueguito2.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"JueguitoMonedas","folderPath":"folders/Objects/JueguitoMonedas.yy",},
@@ -35,7 +36,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Jueguito2","folderPath":"folders/Sprites/Jueguito2.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"ErrorRoom","folderPath":"folders/Objects/ErrorRoom.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"_590735922539134979.png","CopyToMask":-1,"filePath":"datafiles",},
@@ -102,6 +102,7 @@
     {"id":{"name":"mainmenu","path":"rooms/mainmenu/mainmenu.yy",},},
     {"id":{"name":"AyudaBanco","path":"rooms/AyudaBanco/AyudaBanco.yy",},},
     {"id":{"name":"obj_pinguin","path":"objects/obj_pinguin/obj_pinguin.yy",},},
+    {"id":{"name":"Sprite35","path":"sprites/Sprite35/Sprite35.yy",},},
     {"id":{"name":"buttonResert","path":"objects/buttonResert/buttonResert.yy",},},
     {"id":{"name":"objCerdito2","path":"objects/objCerdito2/objCerdito2.yy",},},
     {"id":{"name":"buttoResert","path":"objects/buttoResert/buttoResert.yy",},},

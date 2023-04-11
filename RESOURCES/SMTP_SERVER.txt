@@ -53,3 +53,6 @@ River12titopare14.
 ##GitHub personal token for terminal
 davopaco
 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
+
+##URL 08/04
+"http://34.23.8.46/PINGUI-SERVER/includes/index.php"

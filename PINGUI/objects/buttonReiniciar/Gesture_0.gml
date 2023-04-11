@@ -1,9 +1,12 @@
- /// @description Insert description here
-// You can write your code in this editor
-if(global.room == "jueguito1"){
-	room_goto(JueguitRecolectorMonedas);
-}
+try{
+	if(global.room == "jueguito1"){
+		room_goto(JueguitRecolectorMonedas);
+	}
 
-if(global.room == "jueguito2"){
-	room_goto(Jueguito2);
+	if(global.room == "jueguito2"){
+		room_goto(Jueguito2);
+	}
+}catch(e){
+	show_debug_message("Hubo un error!");
+	error_content(e);
 }

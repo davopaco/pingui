@@ -7,6 +7,7 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Ajustes","order":28,"path":"folders/Objects/Ajustes.yy",},
     {"name":"AyudaBanco","order":24,"path":"folders/Objects/AyudaBanco.yy",},
+    {"name":"ErrorRoom","order":29,"path":"folders/Objects/ErrorRoom.yy",},
     {"name":"GameOver","order":26,"path":"folders/Objects/GameOver.yy",},
     {"name":"Jueguito2","order":26,"path":"folders/Objects/Jueguito2.yy",},
     {"name":"JueguitoMonedas","order":21,"path":"folders/Objects/JueguitoMonedas.yy",},
@@ -24,7 +25,6 @@
     {"name":"Jueguito2","order":25,"path":"folders/Sprites/Jueguito2.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"ErrorRoom","order":29,"path":"folders/Objects/ErrorRoom.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_nivel_3","order":2,"path":"objects/obj_nivel_3/obj_nivel_3.yy",},
@@ -65,6 +65,7 @@
     {"name":"mainmenu","order":3,"path":"rooms/mainmenu/mainmenu.yy",},
     {"name":"AyudaBanco","order":4,"path":"rooms/AyudaBanco/AyudaBanco.yy",},
     {"name":"obj_pinguin","order":1,"path":"objects/obj_pinguin/obj_pinguin.yy",},
+    {"name":"Sprite35","order":31,"path":"sprites/Sprite35/Sprite35.yy",},
     {"name":"buttonResert","order":8,"path":"objects/buttonResert/buttonResert.yy",},
     {"name":"objCerdito2","order":3,"path":"objects/objCerdito2/objCerdito2.yy",},
     {"name":"buttoResert","order":2,"path":"objects/buttoResert/buttoResert.yy",},

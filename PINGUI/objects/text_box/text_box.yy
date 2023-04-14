@@ -33,8 +33,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "CuadroTexto",
-    "path": "sprites/CuadroTexto/CuadroTexto.yy",
+    "name": "Sprite35",
+    "path": "sprites/Sprite35/Sprite35.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -33,8 +33,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "Sprite35",
-    "path": "sprites/Sprite35/Sprite35.yy",
+    "name": "TextDialogBox",
+    "path": "sprites/TextDialogBox/TextDialogBox.yy",
   },
   "spriteMaskId": null,
   "visible": true,

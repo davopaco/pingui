@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite35",
-  "bbox_bottom": 245,
-  "bbox_left": 0,
-  "bbox_right": 1044,
-  "bbox_top": 0,
+  "name": "CheckButton",
+  "bbox_bottom": 719,
+  "bbox_left": 32,
+  "bbox_right": 767,
+  "bbox_top": 48,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d25ce1b-3fe6-4a10-8a45-e28cb04974ad",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9e65bb0c-ae90-489a-9093-a35b4a149ce8",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 246,
+  "height": 800,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2c90ddca-e1e3-4401-9953-d2d044ad4434","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"60cd58c1-1696-4446-8650-c45994afb48d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite35",
+    "name": "CheckButton",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3d25ce1b-3fe6-4a10-8a45-e28cb04974ad","path":"sprites/Sprite35/Sprite35.yy",},},},"Disabled":false,"id":"ffaed94f-9fc3-45f9-a97c-d5c0b486d453","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9e65bb0c-ae90-489a-9093-a35b4a149ce8","path":"sprites/CheckButton/CheckButton.yy",},},},"Disabled":false,"id":"b7f6050a-8c49-4793-8ad2-48dbaf4e51bf","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1047,
+  "width": 800,
 }

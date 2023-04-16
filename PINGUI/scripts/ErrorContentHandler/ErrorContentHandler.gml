@@ -16,6 +16,35 @@ function error_content(_exception){
 	
 		export_to_file(filename, error_string);
 	} catch (e){
-		show_debug_message("There was an error with creating the error content");
+		show_debug_message("Hubo un error creando el contenido del error ocurrido.");
+	}
+}
+
+function feed_message_error_content(_message){
+	try {
+		var filename = "errors.log";
+		var feed_message = _message;
+		if(feed_message==""){
+			feed_message="There is no message to show."
+		}
+		export_to_file(filename, feed_message);
+	} catch (e){
+		show_debug_message("Hubo un error creando el mensaje del feed para el error ocurrido.");
+	}
+}
+
+function feed_content(_message){
+	try {
+		var filename = "feed.log";
+		var timestamp = "["+current_date_timestamp_string()+"] == ";
+		var os_info = os_get_info();
+		var device_info = "device:"+os_info[? "DEVICE"]+" os: Android"+" version:"+os_info[? "VERSION"];
+		var feed_message = timestamp+"|"+device_info+"|"+_message;
+		if(feed_message==""){
+			feed_message="There is no message to show."
+		}
+		export_to_file(filename, feed_message);
+	} catch (e){
+		show_debug_message("Hubo un error creando el contenido del error ocurrido.");
 	}
 }

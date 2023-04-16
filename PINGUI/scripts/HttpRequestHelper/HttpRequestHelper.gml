@@ -1,7 +1,7 @@
 function http_send_file(_url, file_name, subject, email_body){
 	//Opening log file
 	var log_file = file_text_open_read(file_name);
-	var log_contents = "";
+	var log_contents = ""; 
 	while(!file_text_eof(log_file)){
 		log_contents += file_text_read_string(log_file);
 		file_text_readln(log_file);

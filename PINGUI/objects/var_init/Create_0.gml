@@ -6,3 +6,4 @@ if(global.gameData[0].points!=0){
 }else{
 	global.puntos=0;
 }
+global.hmac_key="e++o3JBaMF4NTzQK4qT1/opAySvwsgOZqTJAKJwQmYNB9PXpex4uEHXZrTLNNWn3gXQ9V60rncorvY4IKgBJAAij7xPpUtJWLh2cCjYANj7i12kUFQr0dx3L/2Jsy1Pk+mDx8iWCkFgyjtqrOXeRekjki/MVaT1Q+Yp8FIgQFeI="

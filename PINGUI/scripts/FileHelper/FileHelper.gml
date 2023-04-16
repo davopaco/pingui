@@ -1,11 +1,17 @@
 function export_to_file(_filename, _data){
+	var file_data = import_from_file(_filename);
+	var data=_data;
+	var file;
 	if(file_exists(_filename)){
-		file_text_open_append(_filename);
-		file_text_writeln(_filename);
-	} else{
-		var file = file_text_open_write(_filename);
+		file=file_text_open_append(_filename);
+		file_text_writeln(file);
+	}else{
+		file=file_text_open_write(_filename);
 	}
-	file_text_write_string(file, _data);
+	var all_data = file_data+data;
+	var _hmac_hash = sha1_string_utf8_hmac(global.hmac_key, all_data);
+	data += "#"+_hmac_hash+"#";
+	file_text_write_string(file, data);
 	file_text_close(file);
 }
 
@@ -13,13 +19,13 @@ function import_from_file(_filename){
 	if (file_exists(_filename)){
 		var file;
 		file = file_text_open_read(_filename);
-		var file_string_array = [];
+		var file_string="";
 		while(!file_text_eof(file)){
-			array_push(file_string_array, file_text_read_string(file));
+			file_string+=file_text_read_string(file);
 			file_text_readln(file);
 		}
 		file_text_close(file);
-		return file_string_array;
+		return file_string;
 	}
-	return undefined;
+	return "";
 }

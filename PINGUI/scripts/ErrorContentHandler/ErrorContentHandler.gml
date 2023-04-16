@@ -34,7 +34,6 @@ function feed_message_error_content(_message){
 }
 
 function feed_content(_message){
-	try {
 		var filename = "feed.log";
 		var timestamp = "["+current_date_timestamp_string()+"] == ";
 		var os_info = os_get_info();
@@ -44,7 +43,4 @@ function feed_content(_message){
 			feed_message="There is no message to show."
 		}
 		export_to_file(filename, feed_message);
-	} catch (e){
-		show_debug_message("Hubo un error creando el contenido del error ocurrido.");
-	}
 }

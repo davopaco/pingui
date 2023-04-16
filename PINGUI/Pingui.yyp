@@ -94,6 +94,7 @@
     {"id":{"name":"Ajustes","path":"rooms/Ajustes/Ajustes.yy",},},
     {"id":{"name":"PINGUI_LOGO","path":"objects/PINGUI_LOGO/PINGUI_LOGO.yy",},},
     {"id":{"name":"fondo_error","path":"objects/fondo_error/fondo_error.yy",},},
+    {"id":{"name":"HMAC","path":"scripts/HMAC/HMAC.yy",},},
     {"id":{"name":"JsonHelper","path":"scripts/JsonHelper/JsonHelper.yy",},},
     {"id":{"name":"cerditoBanquero","path":"sprites/cerditoBanquero/cerditoBanquero.yy",},},
     {"id":{"name":"sprRoquiVol","path":"sprites/sprRoquiVol/sprRoquiVol.yy",},},

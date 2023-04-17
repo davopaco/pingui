@@ -1,2 +1,2 @@
 keyboard_string = "";
-kv_input_string="";
+global.kv_input_string="";

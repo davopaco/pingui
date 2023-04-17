@@ -4,6 +4,7 @@
   "name": "fondo_error",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,6 +30,9 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"bgText","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Oh No! :(","varType":2,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"colorText","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$FF0000CC","varType":7,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"bgText1","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Se ha generado un error en el juego","varType":2,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"bgTextAlt","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Hey! :)","varType":2,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"bgText1Alt","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"Si ha sucedido algo, nos puedes escribir en el cuadro de abajo.","varType":2,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"colorTextAlt","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$FF009900","varType":7,},
   ],
   "solid": false,
   "spriteId": {

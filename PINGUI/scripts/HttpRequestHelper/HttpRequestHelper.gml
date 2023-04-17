@@ -15,7 +15,7 @@ function http_send_file(_url, file_name, subject, email_body){
 	ds_map_add(headers, "Content-Type","application/x-www-form-urlencoded");
 	ds_map_add(headers, "Connection", "close");
 	
-	var body = "content="+http_encode_string(log_base64)+"&subject="+subject+"&body="+email_body+"&file_type="+file_name;
+	var body = "content="+http_encode_string(log_base64)+"&subject="+subject+"&body="+email_body+"&file_type="+file_name+"&time_code="+current_date_timestamp_code();
 	var url = _url;
 	http_request(url, "POST", headers, body);
 	ds_map_destroy(headers);

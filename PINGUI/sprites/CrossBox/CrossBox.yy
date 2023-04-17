@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite35",
-  "bbox_bottom": 245,
-  "bbox_left": 0,
-  "bbox_right": 1044,
-  "bbox_top": 0,
+  "name": "CrossBox",
+  "bbox_bottom": 649,
+  "bbox_left": 40,
+  "bbox_right": 679,
+  "bbox_top": 20,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d25ce1b-3fe6-4a10-8a45-e28cb04974ad",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"14968469-137e-45a2-9edd-59abd0775dbd",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 246,
+  "height": 700,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2c90ddca-e1e3-4401-9953-d2d044ad4434","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"29213b8c-fea6-4c08-9d27-4d376ca7e21f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite35",
+    "name": "CrossBox",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3d25ce1b-3fe6-4a10-8a45-e28cb04974ad","path":"sprites/Sprite35/Sprite35.yy",},},},"Disabled":false,"id":"ffaed94f-9fc3-45f9-a97c-d5c0b486d453","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"14968469-137e-45a2-9edd-59abd0775dbd","path":"sprites/CrossBox/CrossBox.yy",},},},"Disabled":false,"id":"3c8c7655-b4e3-4049-8c52-e0968ea3ba67","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1047,
+  "width": 700,
 }

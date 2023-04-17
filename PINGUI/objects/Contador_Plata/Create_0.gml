@@ -1,1 +1,1 @@
-points = 30;
+points = global.puntos;

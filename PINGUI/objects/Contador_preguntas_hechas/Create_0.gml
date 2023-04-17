@@ -1,1 +1,0 @@
-preguntas_hechas = [];

@@ -1,4 +1,22 @@
-global.preguntas_buenas_a = [    
+global.preguntas_buenas= get_list_preguntas_buenas();
+global.preguntas_malas= get_list_preguntas_malas();
+	
+function GetListBueno(){
+	return global.preguntas_buenas;
+}
+
+function GetListMalo(){
+	return global.preguntas_malas;
+}
+
+function Eliminar(index){
+	ds_list_delete(global.preguntas_buenas,index)
+	ds_list_delete(global.preguntas_malas,index)
+}
+
+function get_list_preguntas_buenas (){
+	
+	var preguntas_buenas_a = [    
 		["Manzana", 1],
 	    ["Yogurt", 3],
 	    ["Pescado", 2],
@@ -13,7 +31,18 @@ global.preguntas_buenas_a = [
 		["Banano", 1],
 	];
 	
-global.preguntas_malas_a = [    
+	var preguntas_buenas=ds_list_create();
+	
+	for(var i=0; i<12; i++){
+		ds_list_add(preguntas_buenas, preguntas_buenas_a[i]);
+	}
+
+	return preguntas_buenas;
+}
+
+function get_list_preguntas_malas(){
+
+	var preguntas_malas_a = [    
 		["Dona", 4],
 	    ["Helado", 4],
 	    ["Nuggets", 3],
@@ -28,23 +57,16 @@ global.preguntas_malas_a = [
 		["Cupcake", 2],
 	]; 
 	
-global.preguntas_buenas= ds_list_create();
-global.preguntas_malas= ds_list_create();
-
-for (var i=0; i<12; i +=1){
-	ds_list_add(global.preguntas_buenas,global.preguntas_buenas_a[i])
-	ds_list_add(global.preguntas_malas,global.preguntas_malas_a[i])
-}
+	var preguntas_malas=ds_list_create();
 	
-function GetListBueno(){
-	return global.preguntas_buenas;
+	for(var i=0; i<12; i++){
+		ds_list_add(preguntas_malas, preguntas_malas_a[i]);
+	}
+
+	return preguntas_malas;
 }
 
-function GetListMalo(){
-	return global.preguntas_malas;
-}
-
-function Eliminar(index){
-	ds_list_delete(global.preguntas_buenas,index)
-	ds_list_delete(global.preguntas_malas,index)
+function list_toma_decisiones_reset(){
+	global.decisiones_buenas=get_list_preguntas_buenas();
+	global.decisiones_malas=get_list_preguntas_malas();
 }

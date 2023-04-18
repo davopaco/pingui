@@ -1,3 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
-room_goto(mainmenu);
+try {
+	room_goto(mainmenu);
+} catch(e){
+	show_debug_message("Ha ocurrido un error!");
+	error_content(e);
+}

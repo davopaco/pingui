@@ -1,3 +1,4 @@
+try {
 #region Append data to the global variable gameData
 	if(global.room=="jueguito1"){
 		global.gameData[1].points = global.poinJuego;
@@ -15,4 +16,7 @@
 	}
 	global.puntos=global.gameData[0].points;
 #endregion
-
+} catch(e){
+	show_debug_message("Ha ocurrido un error!");
+	error_content(e);
+}

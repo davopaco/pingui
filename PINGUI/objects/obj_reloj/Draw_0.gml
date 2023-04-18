@@ -11,8 +11,8 @@ try {
 	else{
 	 
 	}
-
-
+	
+	draw_set_color(color_text);
 	draw_set_font(text_font);
 	draw_text(10,10, texto_minutos + ":" + texto_segundos);
 } catch(e){

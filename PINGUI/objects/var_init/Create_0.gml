@@ -1,6 +1,7 @@
 global.reset=false;
 global.home=false;
 global.feed_manual=false;
+global.reset_toma_decisiones=false;
 if(global.gameData[0].points!=0){
 	global.puntos=global.gameData[0].points;
 }else{

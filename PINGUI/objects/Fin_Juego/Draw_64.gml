@@ -1,3 +1,5 @@
+ try {
+	 
  if(global.perder){
 	draw_set_font(fontGrande);
 
@@ -21,4 +23,8 @@
 	draw_set_halign(fa_center);
 	draw_text(960, 400, "Felicidades!");
 	draw_text(960,500,"Saldo Ganado: " + texto);
+}
+} catch(e){
+	show_debug_message("Ha ocurrido un error!");
+	error_content(e);
 }

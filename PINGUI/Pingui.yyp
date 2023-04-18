@@ -58,7 +58,6 @@
   "resources": [
     {"id":{"name":"obj_nivel_3","path":"objects/obj_nivel_3/obj_nivel_3.yy",},},
     {"id":{"name":"buttonAceptar","path":"objects/buttonAceptar/buttonAceptar.yy",},},
-    {"id":{"name":"Pingui_mascot","path":"objects/Pingui_mascot/Pingui_mascot.yy",},},
     {"id":{"name":"mi_fuente","path":"fonts/mi_fuente/mi_fuente.yy",},},
     {"id":{"name":"sprCerdito2","path":"sprites/sprCerdito2/sprCerdito2.yy",},},
     {"id":{"name":"buttonReiniciar","path":"objects/buttonReiniciar/buttonReiniciar.yy",},},
@@ -167,7 +166,6 @@
     {"id":{"name":"obj_nivel_2","path":"objects/obj_nivel_2/obj_nivel_2.yy",},},
     {"id":{"name":"Adelante","path":"objects/Adelante/Adelante.yy",},},
     {"id":{"name":"btn_rectangulo","path":"sprites/btn_rectangulo/btn_rectangulo.yy",},},
-    {"id":{"name":"controladorError","path":"objects/controladorError/controladorError.yy",},},
     {"id":{"name":"obj_preguntas","path":"objects/obj_preguntas/obj_preguntas.yy",},},
     {"id":{"name":"obj_cerdito","path":"objects/obj_cerdito/obj_cerdito.yy",},},
     {"id":{"name":"butttonjugar","path":"objects/butttonjugar/butttonjugar.yy",},},

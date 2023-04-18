@@ -47,8 +47,13 @@ Pinguimejorjuego12.
 root
 24108c5a-263a-4f6a-90d5-7a25afda945e
 
+
 pingui_santi
 River12titopare14.
+
+pingui_sql
+/zPXQ8RR.zJ]u4Dm
+arcaycharlixcxfeatpingui99$
 
 ##GitHub personal token for terminal
 davopaco

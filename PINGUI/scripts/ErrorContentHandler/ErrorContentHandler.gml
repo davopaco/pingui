@@ -15,6 +15,7 @@ function error_content(_exception){
 		}
 	
 		export_to_file(filename, error_string);
+		room_goto(ErrorRoom);
 	} catch (e){
 		show_debug_message(e.message);
 		show_debug_message("Hubo un error creando el contenido del error ocurrido.");

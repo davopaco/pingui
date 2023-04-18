@@ -54,6 +54,7 @@
     {"name":"FinJuego","order":4,"path":"sprites/FinJuego/FinJuego.yy",},
     {"name":"sprEspinas","order":5,"path":"sprites/sprEspinas/sprEspinas.yy",},
     {"name":"objDerecha","order":9,"path":"objects/objDerecha/objDerecha.yy",},
+    {"name":"controladorErrores","order":4,"path":"objects/controladorErrores/controladorErrores.yy",},
     {"name":"objRoquitVol","order":5,"path":"objects/objRoquitVol/objRoquitVol.yy",},
     {"name":"Fondo","order":7,"path":"sprites/Fondo/Fondo.yy",},
     {"name":"controladorJ3","order":11,"path":"objects/controladorJ3/controladorJ3.yy",},

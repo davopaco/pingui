@@ -83,6 +83,7 @@
     {"id":{"name":"FinJuego","path":"sprites/FinJuego/FinJuego.yy",},},
     {"id":{"name":"sprEspinas","path":"sprites/sprEspinas/sprEspinas.yy",},},
     {"id":{"name":"objDerecha","path":"objects/objDerecha/objDerecha.yy",},},
+    {"id":{"name":"controladorErrores","path":"objects/controladorErrores/controladorErrores.yy",},},
     {"id":{"name":"objRoquitVol","path":"objects/objRoquitVol/objRoquitVol.yy",},},
     {"id":{"name":"Fondo","path":"sprites/Fondo/Fondo.yy",},},
     {"id":{"name":"controladorJ3","path":"objects/controladorJ3/controladorJ3.yy",},},

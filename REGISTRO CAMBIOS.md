@@ -62,3 +62,5 @@
    - Se agregó la carpeta "DOCEXTRA" para poner archivos como los png del cronograma y el storyboard. **(Santiago)**
    - Se agruparon en carpetas los archivos que se encontraban en desorden. Las carpetas son las siguientes: "IMÁGENES", "FUENTES", "LOCAL PACKAGES (Son paquetes que se usaron para la fusión de los 2 proyectos de GameMaker)", "PHOTOSHOP", "PIXIL (archivos .pixil que son de la página que se hizo algo de PixelArt)" y "MÚSICA". **(Santiago)**
 
+# BUGS
+   - Agregar un cooldown al enviar correos.

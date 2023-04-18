@@ -1,4 +1,6 @@
 try {
+	if(global.hacer_request){
+		global.hacer_request=false;
 	var filename, subject, email_body;
 
 	if(global.feed_manual==false){
@@ -28,9 +30,16 @@ try {
 		}
 
 	game_restart();
-
+	} else {
+		draw_set_halign(fa_left);
+		draw_set_valign(fa_top);
+		draw_set_font(font_04b_14);
+		draw_set_color(c_red);
+		draw_text(430, 911, "Debes esperar un momento antes de poder enviar un feedback otra vez!");
+	}
 } catch(e){
-	show_debug_message("Ha sucedido un error!");
-	error_content(e);
+	show_message_async("Ha sucedido un error! Se va a reiniciar el juego.");
+	show_debug_message(e.message);
+	game_restart();
 }
 

@@ -2,6 +2,7 @@ global.reset=false;
 global.home=false;
 global.feed_manual=false;
 global.reset_toma_decisiones=false;
+global.hacer_request=true;
 
 try {
 	if(global.gameData[0].points!=0){

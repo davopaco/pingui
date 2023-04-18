@@ -2,6 +2,7 @@ try {
 	draw_self();
 
 	draw_set_font(fnt_pingui01);
+	draw_set_color(color_text);
 
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_middle);
@@ -9,7 +10,7 @@ try {
 	var centerX = x+sprite_width/2;
 	var centerY = y+sprite_height/2;
 
-	draw_text_color(centerX,centerY, button_text, c_white,c_white,c_white,c_white,1);
+	draw_text(centerX,centerY, button_text);
 
 	draw_set_halign(fa_left);
 	draw_set_valign(fa_top);

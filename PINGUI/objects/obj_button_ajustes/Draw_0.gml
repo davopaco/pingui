@@ -10,7 +10,7 @@ try {
 	var centerX = x+sprite_width/2;
 	var centerY = y+sprite_height/2;
 
-	draw_text_color(centerX,centerY, button_text, c_olive,c_olive,c_olive,c_olive,1);
+	draw_text_color(centerX,centerY, button_text, c_white,c_white,c_white,c_white,1);
 
 	draw_set_halign(fa_left);
 	draw_set_valign(fa_top);

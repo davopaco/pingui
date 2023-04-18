@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "btn_cuadrado",
-    "path": "sprites/btn_cuadrado/btn_cuadrado.yy",
+    "name": "buttonv2cuadrado",
+    "path": "sprites/buttonv2cuadrado/buttonv2cuadrado.yy",
   },
   "spriteMaskId": null,
   "visible": true,

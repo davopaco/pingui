@@ -1,22 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_button_jugar",
+  "name": "back_men_niv",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
   ],
   "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"JUGAR",},
-  ],
+  "overriddenProperties": [],
   "parent": {
-    "name": "MainMenu",
-    "path": "folders/Objects/MainMenu.yy",
+    "name": "MenuNiveles",
+    "path": "folders/Objects/MenuNiveles.yy",
   },
-  "parentObjectId": {
-    "name": "obj_button_parent",
-    "path": "objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -33,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "buttonv2",
-    "path": "sprites/buttonv2/buttonv2.yy",
+    "name": "cross_no_bg",
+    "path": "sprites/cross_no_bg/cross_no_bg.yy",
   },
   "spriteMaskId": null,
   "visible": true,

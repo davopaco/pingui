@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Cerdito",
-    "path": "sprites/Cerdito/Cerdito.yy",
+    "name": "feedback",
+    "path": "sprites/feedback/feedback.yy",
   },
   "spriteMaskId": null,
   "visible": true,

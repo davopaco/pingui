@@ -4,6 +4,7 @@
   "name": "obj_nivel_3",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
@@ -33,8 +34,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "btn_cuadrado",
-    "path": "sprites/btn_cuadrado/btn_cuadrado.yy",
+    "name": "buttonv2cuadrado",
+    "path": "sprites/buttonv2cuadrado/buttonv2cuadrado.yy",
   },
   "spriteMaskId": null,
   "visible": true,

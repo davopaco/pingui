@@ -4,6 +4,7 @@ function export_to_file(_filename, _data){
 	var file;
 	if(file_exists(_filename)){
 		file=file_text_open_append(_filename);
+		file_text_writeln(file);
 	}else{
 		file=file_text_open_write(_filename);
 	}

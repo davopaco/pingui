@@ -3,7 +3,7 @@ function error_content(_exception){
 		var filename = "errors.log";
 		var timestamp = "["+current_date_timestamp_string()+"] == ";
 		var os_info = os_get_info();
-		var device_info = "device:"+os_info[? "DEVICE"]+" os: Android"+" version:"+os_info[? "VERSION"];
+		var device_info = "model: "+os_info[? "MODEL"]+" device: "+os_info[? "DEVICE"]+" os: Android"+" version:"+os_info[? "VERSION"];
 		var error_message = _exception.longMessage;
 		var location = _exception.script;
 		var stack_trace = _exception.stacktrace;
@@ -45,7 +45,7 @@ function feed_content(_message){
 		var file_data = import_from_file(filename);
 		var timestamp = "["+current_date_timestamp_string()+"] == ";
 		var os_info = os_get_info();
-		var device_info = "device:"+os_info[? "DEVICE"]+" os: Android"+" version:"+os_info[? "VERSION"];
+		var device_info = "model: "+os_info[? "MODEL"]+" device: "+os_info[? "DEVICE"]+" os: Android"+" version:"+os_info[? "VERSION"];
 		var feed_message = _message; 
 		if(feed_message==""){
 			feed_message="There is no message to show."

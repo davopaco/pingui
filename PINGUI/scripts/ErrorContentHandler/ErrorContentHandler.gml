@@ -42,6 +42,7 @@ function feed_message_error_content(_message){
 
 function feed_content(_message){
 		var filename = "feed.log";
+		var file_data = import_from_file(filename);
 		var timestamp = "["+current_date_timestamp_string()+"] == ";
 		var os_info = os_get_info();
 		var device_info = "device:"+os_info[? "DEVICE"]+" os: Android"+" version:"+os_info[? "VERSION"];
@@ -50,5 +51,7 @@ function feed_content(_message){
 			feed_message="There is no message to show."
 		}
 		feed_message = timestamp+"|"+device_info+"|Message: "+feed_message+"|HMAC: ";
+		var _hmac_hash = sha1_string_utf8_hmac(global.hmac_key, file_data+feed_message);
+		feed_message += "#"+_hmac_hash+"#";
 		export_to_file(filename, feed_message);
 }

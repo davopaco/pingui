@@ -1,5 +1,6 @@
 function error_content(_exception){
 	try {
+		instance_destroy(all);
 		var filename = "errors.log";
 		var timestamp = "["+current_date_timestamp_string()+"] == ";
 		var os_info = os_get_info();

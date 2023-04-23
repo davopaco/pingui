@@ -1,4 +1,16 @@
 try {
+#region Create instances of GameOver room
+	if(global.perder){
+		instance_create_layer(381, 703, "Instances", buttonMenu);
+		instance_create_layer(1060, 703, "Instances", buttonResert);
+	}else{
+		instance_create_layer(100, 703, "Instances", buttonMenu);
+		instance_create_layer(1318, 703, "Instances", buttonResert);
+		instance_create_layer(700, 703, "Instances", buttonContinuar);
+	}
+	
+#endregion
+	
 #region Append data to the global variable gameData
 	if(global.room=="jueguito1"){
 		global.gameData[1].points = global.poinJuego;

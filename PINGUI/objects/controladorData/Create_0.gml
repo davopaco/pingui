@@ -7,7 +7,12 @@ try {
 		for(var i=1; i<4; i++){
 			global.gameData[i]={
 				points : 0,
-				ayuda_banco : undefined
+				ayuda_banco : undefined,
+				toma_de_decisiones : {
+					puntos_init : 0,
+					puntos_fin : 0,
+					status_win : undefined
+				}
 			}
 		}
 	}

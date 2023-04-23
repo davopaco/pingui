@@ -25,12 +25,14 @@ function error_content(_exception){
 function feed_message_error_content(_message){
 	try {
 		var filename = "errors.log";
+		var file_data = import_from_file(filename);
 		var feed_message = _message;
 		if(feed_message==""){
 			feed_message="There is no message to show."
 		}
 		feed_message="|Message: "+feed_message+"|HMAC: ";
-		
+		var _hmac_hash = sha1_string_utf8_hmac(global.hmac_key, file_data+feed_message);
+		feed_message += "#"+_hmac_hash+"#";
 		export_to_file(filename, feed_message);
 	} catch (e){
 		show_debug_message(e.message);

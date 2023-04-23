@@ -8,9 +8,6 @@ function export_to_file(_filename, _data){
 	}else{
 		file=file_text_open_write(_filename);
 	}
-	var all_data = file_data+data;
-	var _hmac_hash = sha1_string_utf8_hmac(global.hmac_key, all_data);
-	data += "#"+_hmac_hash+"#";
 	file_text_write_string(file, data);
 	file_text_close(file);
 }

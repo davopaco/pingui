@@ -14,6 +14,11 @@ try {
 		Eliminar(global.num_preg_actual);
 		room_goto(toma_decisiones);
 	} else {
+		if(global.room=="jueguito1"){
+			global.gameData[1].toma_de_decisiones.puntos_init=global.puntos;
+			global.gameData[1].toma_de_decisiones.puntos_fin=Contador_Plata.points;
+			global.gameData[1].toma_de_decisiones.status_win=true;
+		}
 		global.puntos=Contador_Plata.points;
 		global.reset_toma_decisiones=true;
 	}

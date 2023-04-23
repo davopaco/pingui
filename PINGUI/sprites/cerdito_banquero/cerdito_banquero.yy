@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "cerditoBanquero",
-  "bbox_bottom": 453,
-  "bbox_left": 115,
-  "bbox_right": 382,
-  "bbox_top": 44,
+  "name": "cerdito_banquero",
+  "bbox_bottom": 71,
+  "bbox_left": 0,
+  "bbox_right": 54,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a65b8bcb-5b26-4adf-adf1-5a17bc8fe077",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6f160285-ca65-4f69-b927-4190a1a9fb89",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 500,
+  "height": 72,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fce0bfea-6a5b-4e0a-9382-d27037957752","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"87c9f25d-3c0f-48aa-8185-08f2e719858d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "cerditoBanquero",
+    "name": "cerdito_banquero",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a65b8bcb-5b26-4adf-adf1-5a17bc8fe077","path":"sprites/cerditoBanquero/cerditoBanquero.yy",},},},"Disabled":false,"id":"dfe3b3f4-a8c9-4961-8162-7008180b8291","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6f160285-ca65-4f69-b927-4190a1a9fb89","path":"sprites/cerdito_banquero/cerdito_banquero.yy",},},},"Disabled":false,"id":"09e7e6df-f1f9-469c-a390-2eb33aec16a6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 500,
+  "width": 55,
 }

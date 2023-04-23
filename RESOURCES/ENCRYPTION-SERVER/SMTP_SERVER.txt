@@ -59,5 +59,8 @@ arcaycharlixcxfeatpingui99$
 davopaco
 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
 
-##URL 08/04
-"http://34.23.8.46/PINGUI-SERVER/includes/index.php"
+##URL
+"http://34.148.1.105/PINGUI-SERVER/includes/index.php"
+
+##passphrase for authorization header
+ArCaycHarlixCxfeatpiNgui99$

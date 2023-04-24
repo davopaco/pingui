@@ -43,6 +43,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GENERAL","folderPath":"folders/Objects/GENERAL.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GENERAL","folderPath":"folders/Sprites/GENERAL.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"_590735922539134979.png","CopyToMask":-1,"filePath":"datafiles",},
@@ -100,6 +101,7 @@
     {"id":{"name":"Transitions","path":"scripts/Transitions/Transitions.yy",},},
     {"id":{"name":"fuente_boton","path":"fonts/fuente_boton/fuente_boton.yy",},},
     {"id":{"name":"cross_no_bg","path":"sprites/cross_no_bg/cross_no_bg.yy",},},
+    {"id":{"name":"menu_pigcoin_sprt","path":"sprites/menu_pigcoin_sprt/menu_pigcoin_sprt.yy",},},
     {"id":{"name":"MenuNiveles","path":"rooms/MenuNiveles/MenuNiveles.yy",},},
     {"id":{"name":"sprEspinasarriba","path":"sprites/sprEspinasarriba/sprEspinasarriba.yy",},},
     {"id":{"name":"home_estrellas_obj","path":"objects/home_estrellas_obj/home_estrellas_obj.yy",},},

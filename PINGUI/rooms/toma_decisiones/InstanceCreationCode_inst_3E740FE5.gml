@@ -1,1 +1,1 @@
-opcion = true;
+opcion=true;

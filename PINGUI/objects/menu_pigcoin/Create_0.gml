@@ -1,0 +1,2 @@
+shrinked=true;
+tap=false;

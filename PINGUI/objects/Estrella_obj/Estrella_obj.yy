@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "estrella_false",
-    "path": "sprites/estrella_false/estrella_false.yy",
+    "name": "estrellas0",
+    "path": "sprites/estrellas0/estrellas0.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -6,7 +6,6 @@ try {
 	draw_set_valign(fa_middle)
 	draw_self();
 
-
 	if (opcion){
 		draw_text(x, y, global.decisiones_buenas[| global.num_preg_actual][0]+" - $"+ string(global.decisiones_buenas[| global.num_preg_actual][1]));
 	} else {

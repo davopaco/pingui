@@ -1,5 +1,10 @@
 function error_content(_exception){
 	try {
+		show_debug_message(_exception.longMessage);
+		show_debug_message(_exception.script);
+		for(var i = 0; i<array_length(_exception.stacktrace);i++){
+			show_debug_message(_exception.stacktrace[i]);
+		}
 		instance_destroy(all);
 		var filename = "errors.log";
 		var timestamp = "["+current_date_timestamp_string()+"] == ";

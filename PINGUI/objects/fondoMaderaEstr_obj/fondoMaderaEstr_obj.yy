@@ -27,7 +27,9 @@
   "physicsStartAwake": true,
   "properties": [
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"bgText","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"LO HAS LOGRADO!","varType":2,},
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"colorText","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$007E7ED9","varType":7,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"colorText","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$001E6620","varType":7,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"bgText1","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"AY NO! HAS PERDIDO :(","varType":2,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"colorText1","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$001515D9","varType":7,},
   ],
   "solid": false,
   "spriteId": {

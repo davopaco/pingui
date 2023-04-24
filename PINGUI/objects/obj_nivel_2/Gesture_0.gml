@@ -1,3 +1,4 @@
+event_inherited();
 try {
 	room_goto(Jueguito2);
 } catch(e){

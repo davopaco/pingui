@@ -1,1 +1,1 @@
-alarm[0]=2;
+tap=true;

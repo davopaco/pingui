@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objIzq",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
-  ],
+  "name": "objPingu3",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprIzq",
-    "path": "sprites/sprIzq/sprIzq.yy",
+    "name": "pingui_right64",
+    "path": "sprites/pingui_right64/pingui_right64.yy",
   },
   "spriteMaskId": null,
   "visible": true,

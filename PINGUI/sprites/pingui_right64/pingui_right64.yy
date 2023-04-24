@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "pingui_right",
-  "bbox_bottom": 196,
-  "bbox_left": 22,
-  "bbox_right": 189,
-  "bbox_top": 8,
+  "name": "pingui_right64",
+  "bbox_bottom": 145,
+  "bbox_left": 16,
+  "bbox_right": 139,
+  "bbox_top": 6,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -18,7 +18,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 200,
+  "height": 148,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"261e094b-2663-4583-9e2d-5b4ce6240285","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -26,8 +26,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Jueguito3",
+    "path": "folders/Sprites/Jueguito3.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -55,13 +55,13 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"cdb79a90-aa34-426f-8c6f-fc8e6c7c782a","path":"sprites/pingui_right/pingui_right.yy",},},},"Disabled":false,"id":"be0edb97-9fbf-4dda-b9dc-8f035e646ef4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6fc55d59-1446-4ede-a0a1-55825d8de36a","path":"sprites/pingui_right/pingui_right.yy",},},},"Disabled":false,"id":"c7c03860-7907-4bc8-9bea-edbdd5657307","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"cdb79a90-aa34-426f-8c6f-fc8e6c7c782a","path":"sprites/pingui_right64/pingui_right64.yy",},},},"Disabled":false,"id":"84e73955-53f5-4ca9-914d-d661ee222120","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6fc55d59-1446-4ede-a0a1-55825d8de36a","path":"sprites/pingui_right64/pingui_right64.yy",},},},"Disabled":false,"id":"25e05636-57fc-4bf3-acd8-5a6107d3d6c4","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": -3,
+    "xorigin": -1,
     "yorigin": 0,
   },
   "swatchColours": null,
@@ -72,5 +72,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 200,
+  "width": 148,
 }

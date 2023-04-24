@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Estrella_obj",
+  "name": "reintentar_estrellas_obj",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "estrellas0",
-    "path": "sprites/estrellas0/estrellas0.yy",
+    "name": "reiniciar",
+    "path": "sprites/reiniciar/reiniciar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

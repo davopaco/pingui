@@ -1,3 +1,5 @@
+//desayuno
+
 global.preguntas_buenas= get_list_preguntas_buenas();
 global.preguntas_malas= get_list_preguntas_malas();
 
@@ -11,15 +13,15 @@ function get_list_preguntas_buenas (){
 	var preguntas_buenas_a = [    
 		["Manzana", 1],
 	    ["Yogurt", 3],
-	    ["Pescado", 2],
-	    ["Jugo de Mora", 2],
+	    ["Huevo sancochado", 2],
+	    ["Milo", 2],
 		["Huevos Revueltos", 2],
-		["Lentejas", 2],
+		["Vaso de leche", 2],
 		["Jugo Natural", 1],
 		["Galleta de Avena", 1],
 		["Sandwich", 2],
 		["Ensalada", 1],
-		["Arroz con Pollo", 3],
+		["Ensalada de frutas", 3],
 		["Banano", 1]
 	];
 	
@@ -36,17 +38,17 @@ function get_list_preguntas_malas(){
 
 	var preguntas_malas_a = [    
 		["Dona", 4],
-	    ["Helado", 4],
-	    ["Nuggets", 3],
-	    ["Frappe", 2],
-		["Hamburguesa", 6],
-		["Pollo Frito", 3],
-		["Fresca Cola", 4],
-		["Brownie", 2],
-		["Pizza", 4],
-		["Papas Fritas", 2],
-		["Perro Caliente", 6],
-		["Cupcake", 2]
+	    ["Helado", 8],
+	    ["Tocino", 7],
+	    ["Tarta de chocolate", 3],
+		["Panqueques", 6],
+		["Waffles", 10],
+		["Galletas", 8],
+		["Brownie", 3],
+		["Pizza", 5],
+		["Chocolate Jet", 2],
+		["Paquete", 6],
+		["Cupcake", 9]
 	]; 
 	
 	var preguntas_malas=ds_list_create();

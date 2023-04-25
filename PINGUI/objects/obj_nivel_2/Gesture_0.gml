@@ -1,6 +1,7 @@
 event_inherited();
 try {
-	room_goto(Jueguito2);
+	global.room_to=Jueguito2;
+	room_goto(PantallaCarga);
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");
 	error_content(e);

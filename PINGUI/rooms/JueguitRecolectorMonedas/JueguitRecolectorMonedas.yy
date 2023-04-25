@@ -7,9 +7,9 @@
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
+    {"name":"inst_4A7B9F7D","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
     {"name":"inst_6FB06AEC","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
     {"name":"inst_33FF5694","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
-    {"name":"inst_4A7B9F7D","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
     {"name":"inst_70A5A0D6","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
     {"name":"inst_5EAA2AEF","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},
     {"name":"inst_8CFDA7C","path":"rooms/JueguitRecolectorMonedas/JueguitRecolectorMonedas.yy",},

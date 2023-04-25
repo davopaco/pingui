@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "sprTileCollision",
   "bbox_bottom": 127,
-  "bbox_left": 128,
-  "bbox_right": 255,
+  "bbox_left": 0,
+  "bbox_right": 127,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 256,
+  "width": 128,
 }

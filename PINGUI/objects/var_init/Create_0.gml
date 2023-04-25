@@ -1,6 +1,7 @@
 global.reset=false;
 global.home=false;
 global.room="";
+global.room_to=0;
 global.feed_manual=false;
 global.reset_toma_decisiones=false;
 

@@ -1,4 +1,6 @@
 try {
+	global.perder = true;
+	global.poinJuego = 0;
 	if(global.reset==true){
 		global.reset=false;
 		room_persistent=false;

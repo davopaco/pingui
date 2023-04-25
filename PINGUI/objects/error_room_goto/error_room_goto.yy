@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MainMenu",
-    "path": "folders/Objects/MainMenu.yy",
+    "name": "Ajustes",
+    "path": "folders/Objects/Ajustes.yy",
   },
   "parentObjectId": null,
   "persistent": false,

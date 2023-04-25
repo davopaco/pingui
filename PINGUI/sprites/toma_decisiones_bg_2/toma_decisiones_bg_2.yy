@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sprFondoJ2",
-  "bbox_bottom": 899,
+  "name": "toma_decisiones_bg_2",
+  "bbox_bottom": 1079,
   "bbox_left": 0,
-  "bbox_right": 899,
+  "bbox_right": 1919,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0c8b3034-3b04-47a8-b52f-91de9af3a88c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c585c4e5-2e26-4428-bf0a-03e7827b29f3",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 900,
+  "height": 1080,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9e2f5bbc-b96c-4187-a692-060f2cb922ac","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"517c73dd-64e2-4f2f-9bf1-fb3e66f49642","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Jueguito2",
-    "path": "folders/Sprites/Jueguito2.yy",
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sprFondoJ2",
+    "name": "toma_decisiones_bg_2",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0c8b3034-3b04-47a8-b52f-91de9af3a88c","path":"sprites/sprFondoJ2/sprFondoJ2.yy",},},},"Disabled":false,"id":"29c0e017-a042-4ee4-82cd-84a460f03b27","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c585c4e5-2e26-4428-bf0a-03e7827b29f3","path":"sprites/toma_decisiones_bg_2/toma_decisiones_bg_2.yy",},},},"Disabled":false,"id":"93eda07a-a130-4efb-ba60-076b949ba302","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 900,
+  "width": 1920,
 }

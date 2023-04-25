@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "buttonv2",
-    "path": "sprites/buttonv2/buttonv2.yy",
+    "name": "icy_letrero",
+    "path": "sprites/icy_letrero/icy_letrero.yy",
   },
   "spriteMaskId": null,
   "visible": true,

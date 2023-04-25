@@ -11,8 +11,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"buttonParent","path":"objects/buttonParent/buttonParent.yy",},"propertyId":{"name":"colortext","path":"objects/buttonParent/buttonParent.yy",},"value":"c_olive",},
   ],
   "parent": {
-    "name": "JueguitoMonedas",
-    "path": "folders/Objects/JueguitoMonedas.yy",
+    "name": "GameOver",
+    "path": "folders/Objects/GameOver.yy",
   },
   "parentObjectId": {
     "name": "buttonParent",

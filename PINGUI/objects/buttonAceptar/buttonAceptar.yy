@@ -8,7 +8,7 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"butParent","path":"objects/butParent/butParent.yy",},"propertyId":{"name":"Text","path":"objects/butParent/butParent.yy",},"value":"Aceptar",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"butParent","path":"objects/butParent/butParent.yy",},"propertyId":{"name":"color","path":"objects/butParent/butParent.yy",},"value":"$FFFF0070",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"butParent","path":"objects/butParent/butParent.yy",},"propertyId":{"name":"color","path":"objects/butParent/butParent.yy",},"value":"$FF8C332E",},
   ],
   "parent": {
     "name": "AyudaBanco",

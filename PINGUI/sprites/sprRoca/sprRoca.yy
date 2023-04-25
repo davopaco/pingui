@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sprRoca",
-  "bbox_bottom": 99,
+  "bbox_bottom": 84,
   "bbox_left": 0,
   "bbox_right": 98,
-  "bbox_top": 15,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -18,7 +18,7 @@
   ],
   "gridX": 10,
   "gridY": 10,
-  "height": 100,
+  "height": 85,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"86c51ba3-9cac-4950-a923-b4022beb7141","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -72,5 +72,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 100,
+  "width": 99,
 }

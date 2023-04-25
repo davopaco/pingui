@@ -1,13 +1,5 @@
 global.preguntas_buenas= get_list_preguntas_buenas();
 global.preguntas_malas= get_list_preguntas_malas();
-	
-function GetListBueno(){
-	return global.preguntas_buenas;
-}
-
-function GetListMalo(){
-	return global.preguntas_malas;
-}
 
 function Eliminar(index){
 	ds_list_delete(global.preguntas_buenas,index)
@@ -28,7 +20,7 @@ function get_list_preguntas_buenas (){
 		["Sandwich", 2],
 		["Ensalada", 1],
 		["Arroz con Pollo", 3],
-		["Banano", 1],
+		["Banano", 1]
 	];
 	
 	var preguntas_buenas=ds_list_create();
@@ -54,7 +46,7 @@ function get_list_preguntas_malas(){
 		["Pizza", 4],
 		["Papas Fritas", 2],
 		["Perro Caliente", 6],
-		["Cupcake", 2],
+		["Cupcake", 2]
 	]; 
 	
 	var preguntas_malas=ds_list_create();
@@ -67,6 +59,6 @@ function get_list_preguntas_malas(){
 }
 
 function list_toma_decisiones_reset(){
-	global.decisiones_buenas=get_list_preguntas_buenas();
-	global.decisiones_malas=get_list_preguntas_malas();
+	global.preguntas_buenas=get_list_preguntas_buenas();
+	global.preguntas_malas=get_list_preguntas_malas();
 }

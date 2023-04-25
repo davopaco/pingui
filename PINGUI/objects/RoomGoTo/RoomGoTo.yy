@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MainMenu",
-    "path": "folders/Objects/MainMenu.yy",
+    "name": "TempRoom",
+    "path": "folders/Objects/TempRoom.yy",
   },
   "parentObjectId": null,
   "persistent": false,

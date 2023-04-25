@@ -268,8 +268,8 @@
     {"id":{"name":"Cerdito","path":"sprites/Cerdito/Cerdito.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Jueguito3","path":"rooms/Jueguito3/Jueguito3.yy",},},
     {"roomId":{"name":"mainmenu","path":"rooms/mainmenu/mainmenu.yy",},},
+    {"roomId":{"name":"Jueguito3","path":"rooms/Jueguito3/Jueguito3.yy",},},
     {"roomId":{"name":"Jueguito2","path":"rooms/Jueguito2/Jueguito2.yy",},},
     {"roomId":{"name":"AyudaBanco","path":"rooms/AyudaBanco/AyudaBanco.yy",},},
     {"roomId":{"name":"Pausemenu","path":"rooms/Pausemenu/Pausemenu.yy",},},

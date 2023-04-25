@@ -12,15 +12,9 @@ try {
 #endregion
 	
 #region Append data to the global variable gameData
-	if(global.room=="jueguito1"){
-		global.gameData[1].points = global.poinJuego;
-	}
-	if(global.room=="jueguito2"){
-		global.gameData[2].points = global.poinJuego;
-	}
-	if(global.room=="jueguito3"){
-		global.gameData[3].points = global.poinJuego;
-	}
+	var _num_room=global.rooms_struct[$ global.room];
+	global.gameData[_num_room].points = global.poinJuego;
+	
 	var _length=array_length(global.gameData);
 	global.gameData[0].points=0;
 	for(var i=1; i<_length; i++){

@@ -5,10 +5,12 @@ try {
 	//Cambia la pantalla
 
 	if(global.room=="jueguito1"){
-		room_goto(Pre_decisionens);
+		global.room_to=Pre_decisionens;
+		room_goto(PantallaCarga);
 	}
 	if(global.room=="jueguito2"){
-		room_goto(mainmenu);
+		global.room_to=mainmenu;
+		room_goto(PantallaCarga);
 	}
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");

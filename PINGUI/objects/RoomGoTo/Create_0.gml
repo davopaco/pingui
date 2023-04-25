@@ -1,7 +1,8 @@
 try {
 	if(global.home==true){
 		global.home=false;
-		room_goto(mainmenu);
+		global.room_to=mainmenu;
+		room_goto(PantallaCarga);
 	}else if(global.room=="jueguito1"){
 		room_goto(JueguitRecolectorMonedas);
 	}else if(global.room=="jueguito2"){

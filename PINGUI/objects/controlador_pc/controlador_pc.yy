@@ -1,15 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "save_button",
+  "name": "controlador_pc",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MainMenu",
-    "path": "folders/Objects/MainMenu.yy",
+    "name": "PantallaCarga",
+    "path": "folders/Objects/PantallaCarga.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,10 +29,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "CheckMark",
-    "path": "sprites/CheckMark/CheckMark.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

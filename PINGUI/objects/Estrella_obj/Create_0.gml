@@ -15,7 +15,7 @@ try {
 	}else if (_puntos>=0.3 && _puntos<0.4){
 		image_index=2;
 		instance_create_depth(832,672,layer_get_depth(inst_778CABBB) - 1, OK_estrellas_obj);
-	}else{
+	}else if (_puntos>=0.4){
 		image_index=3;
 		instance_create_depth(832,672,layer_get_depth(inst_778CABBB) - 1, OK_estrellas_obj);
 	}

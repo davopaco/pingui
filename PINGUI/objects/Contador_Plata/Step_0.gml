@@ -8,7 +8,7 @@ try {
 	if(global.reset_toma_decisiones){
 		global.reset_toma_decisiones=false;
 		list_toma_decisiones_reset();
-		room_goto(MenuNiveles);
+		room_goto(RoomEstrellas);
 		instance_destroy(Contador_Plata);
 		instance_destroy(Contador_Reps);
 	}

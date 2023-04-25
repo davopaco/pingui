@@ -3,13 +3,17 @@ try {
 	event_inherited();
 
 	//Cambia la pantalla
-
+	global.room_to=Pre_decisionens;
 	if(global.room=="jueguito1"){
-		global.room_to=Pre_decisionens;
+		global.tdd_to=toma_decisiones;
 		room_goto(PantallaCarga);
 	}
 	if(global.room=="jueguito2"){
-		global.room_to=mainmenu;
+		global.tdd_to=toma_decisiones_2;
+		room_goto(PantallaCarga);
+	}
+	if(global.room=="jueguito3"){
+		global.tdd_to=toma_decisiones_3;
 		room_goto(PantallaCarga);
 	}
 } catch(e){

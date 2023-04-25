@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "feedback",
-  "bbox_bottom": 33,
+  "name": "musica_let_sprt",
+  "bbox_bottom": 78,
   "bbox_left": 0,
-  "bbox_right": 54,
+  "bbox_right": 509,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bac712ef-dff7-412e-bdf6-0559ddd94550",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6781d328-82d0-4c0e-9c6c-47d9e5107d53",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 34,
+  "height": 79,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9cae2209-d0fd-43bb-92c1-5fa2ddffc77d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7eab71f8-644d-4299-b116-241ad8d23521","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "LETRAS",
+    "path": "folders/Sprites/LETRAS.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "feedback",
+    "name": "musica_let_sprt",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bac712ef-dff7-412e-bdf6-0559ddd94550","path":"sprites/feedback/feedback.yy",},},},"Disabled":false,"id":"226777f9-8e2f-4327-85f3-1411c1421a29","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6781d328-82d0-4c0e-9c6c-47d9e5107d53","path":"sprites/musica_let_sprt/musica_let_sprt.yy",},},},"Disabled":false,"id":"11d9fcfd-62de-46cc-90e4-30450ccc255e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 55,
+  "width": 510,
 }

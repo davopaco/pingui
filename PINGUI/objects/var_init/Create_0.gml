@@ -2,8 +2,14 @@ global.reset=false;
 global.home=false;
 global.room="";
 global.room_to=0;
+global.tdd_to=0;
 global.feed_manual=false;
 global.reset_toma_decisiones=false;
+global.struct_toma_de_decisiones={
+	tdd_1:1,
+	tdd_2:2,
+	tdd_3:3
+}
 
 try {
 	if(global.gameData[0].points!=0){
@@ -11,6 +17,7 @@ try {
 	}else{
 		global.puntos=0;
 	}
+		
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");
 	error_content(e);

@@ -16,7 +16,7 @@ try {
 	}
 	if(Contador_Reps.repeticiones<5){
 		Eliminar(global.num_preg_actual);
-		room_goto(toma_decisiones);
+		room_goto(global.tdd_to);
 	} else {
 		global.gameData[_num_room].toma_de_decisiones.puntos_init=global.puntos;
 		global.gameData[_num_room].toma_de_decisiones.puntos_fin=Contador_Plata.points;

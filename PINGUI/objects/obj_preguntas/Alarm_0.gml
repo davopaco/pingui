@@ -18,7 +18,6 @@ try {
 	} else {
 		global.gameData[_num_room].toma_de_decisiones.puntos_init=global.puntos;
 		global.gameData[_num_room].toma_de_decisiones.puntos_fin=Contador_Plata.points;
-		global.puntos=Contador_Plata.points;
 		global.gameData[_num_room].toma_de_decisiones.status_win=true;
 	}
 } catch(e){

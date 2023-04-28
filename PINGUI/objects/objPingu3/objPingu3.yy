@@ -4,8 +4,6 @@
   "name": "objPingu3",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -30,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "pingui_brazos98",
-    "path": "sprites/pingui_brazos98/pingui_brazos98.yy",
+    "name": "sprPinguiQ",
+    "path": "sprites/sprPinguiQ/sprPinguiQ.yy",
   },
   "spriteMaskId": null,
   "visible": true,

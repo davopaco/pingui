@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Espinaspeques",
+  "name": "objRoca3",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"objPingu3","path":"objects/objPingu3/objPingu3.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprEspinaspeques",
-    "path": "sprites/sprEspinaspeques/sprEspinaspeques.yy",
+    "name": "sprRoca3",
+    "path": "sprites/sprRoca3/sprRoca3.yy",
   },
   "spriteMaskId": null,
   "visible": true,

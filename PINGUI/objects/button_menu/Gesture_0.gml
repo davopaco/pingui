@@ -1,4 +1,4 @@
-global.puntos = 0;
+global.poinJuego = 0;
 global.home=true;
 global.reset=true;
 try {

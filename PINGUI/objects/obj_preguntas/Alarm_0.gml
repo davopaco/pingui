@@ -1,7 +1,7 @@
 try {
 	var _num_room = global.rooms_struct[$ global.room];
 	Contador_Reps.repeticiones++;
-	if(izquierda){
+	if(opcion){
 		Contador_Plata.points = Contador_Plata.points - global.decisiones_buenas[| global.num_preg_actual][1];
 		if(Contador_Plata.points<=0){
 			global.reset_toma_decisiones=true;

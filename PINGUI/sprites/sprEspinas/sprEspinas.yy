@@ -4,7 +4,7 @@
   "name": "sprEspinas",
   "bbox_bottom": 155,
   "bbox_left": 0,
-  "bbox_right": 255,
+  "bbox_right": 242,
   "bbox_top": 88,
   "bboxMode": 0,
   "collisionKind": 1,

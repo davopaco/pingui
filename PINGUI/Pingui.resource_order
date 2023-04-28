@@ -214,6 +214,7 @@
     {"name":"fontGrande","order":1,"path":"fonts/fontGrande/fontGrande.yy",},
     {"name":"obj_button_jugar","order":1,"path":"objects/obj_button_jugar/obj_button_jugar.yy",},
     {"name":"font_04b_14","order":7,"path":"fonts/font_04b_14/font_04b_14.yy",},
+    {"name":"obj_reloj3","order":17,"path":"objects/obj_reloj3/obj_reloj3.yy",},
     {"name":"sprTileCollision","order":14,"path":"sprites/sprTileCollision/sprTileCollision.yy",},
     {"name":"SaveGame","order":10,"path":"scripts/SaveGame/SaveGame.yy",},
     {"name":"sprPiso","order":3,"path":"sprites/sprPiso/sprPiso.yy",},

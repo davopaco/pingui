@@ -263,6 +263,7 @@
     {"id":{"name":"fontGrande","path":"fonts/fontGrande/fontGrande.yy",},},
     {"id":{"name":"obj_button_jugar","path":"objects/obj_button_jugar/obj_button_jugar.yy",},},
     {"id":{"name":"font_04b_14","path":"fonts/font_04b_14/font_04b_14.yy",},},
+    {"id":{"name":"obj_reloj3","path":"objects/obj_reloj3/obj_reloj3.yy",},},
     {"id":{"name":"sprTileCollision","path":"sprites/sprTileCollision/sprTileCollision.yy",},},
     {"id":{"name":"SaveGame","path":"scripts/SaveGame/SaveGame.yy",},},
     {"id":{"name":"sprPiso","path":"sprites/sprPiso/sprPiso.yy",},},

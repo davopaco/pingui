@@ -10,3 +10,4 @@ else if(n==2){
 else if(n==3){
 	alarm_set(2,120);
 }
+

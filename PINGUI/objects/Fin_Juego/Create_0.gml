@@ -1,4 +1,4 @@
-try {
+ try {
 #region Create instances of GameOver room
 	if(global.perder){
 		instance_create_layer(381, 703, "Instances", buttonMenu);

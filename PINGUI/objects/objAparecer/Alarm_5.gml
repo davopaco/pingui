@@ -1,4 +1,4 @@
-try {
+ try {
 	global.perder=false;
 	if(global.poinJuego>=16){
 		global.gameData[2].ayuda_banco=int64(0);

@@ -1,4 +1,4 @@
 if(y==736){
-	vspeed=-17;
-	gravity=0.4;
+	vspeed=-23;
+	gravity=0.7;
 }

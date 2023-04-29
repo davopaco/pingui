@@ -13,7 +13,10 @@ try {
 			var c_text= string(global.gameData[1].boost);
 		}else if(global.room=="jueguito2"){
 			var c_text= string(global.gameData[2].boost);
+		}else if(global.room="jueguito3"){
+			var c_text= string(global.gameData[3].boost);
 		}
+		
 		draw_text(1000,450, c_text + " pigcoin");
 	}
 

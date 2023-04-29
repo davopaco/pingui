@@ -1,4 +1,4 @@
-try {
+    try {
 	if(global.home==true){
 		global.home=false;
 		global.room_to=mainmenu;

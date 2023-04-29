@@ -12,6 +12,11 @@ try {
 		global.room_to=Jueguito2;
 		room_goto(PantallaCarga);
 	}
+	if(global.room=="jueguito3"){
+		global.room_to=Jueguito3;
+		room_goto(PantallaCarga);
+	}
+	
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");
 	error_content(e);

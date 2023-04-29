@@ -1,8 +1,8 @@
 //desayuno
 
 function Eliminar(index){
-	ds_list_delete(global.preguntas_buenas,index)
-	ds_list_delete(global.preguntas_malas,index)
+	ds_list_delete(global.preguntas_buenas,index);
+	ds_list_delete(global.preguntas_malas,index);
 }
 
 function get_list_preguntas_buenas(){
@@ -56,7 +56,7 @@ function get_list_preguntas_buenas(){
 	ds_list_add(preguntas_buenas_pre, preguntas_buenas_2);
 	ds_list_add(preguntas_buenas_pre, preguntas_buenas_3);
 	
-	for(var i=0; i<12; i++){
+	for(var i=0; i<array_length(preguntas_buenas_pre[| _num_tdd]); i++){
 		ds_list_add(preguntas_buenas, preguntas_buenas_pre[| _num_tdd][i]);
 	}
 
@@ -116,7 +116,7 @@ function get_list_preguntas_malas(){
 	
 	var preguntas_malas=ds_list_create();
 	
-	for(var i=0; i<12; i++){
+	for(var i=0; i<array_length(preguntas_malas_pre[| _num_tdd]); i++){
 		ds_list_add(preguntas_malas, preguntas_malas_pre[| _num_tdd][i]);
 	}
 

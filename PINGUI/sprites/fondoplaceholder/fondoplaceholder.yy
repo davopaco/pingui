@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "fondoplaceholder",
-  "bbox_bottom": 1199,
+  "bbox_bottom": 1332,
   "bbox_left": 0,
-  "bbox_right": 1919,
+  "bbox_right": 1999,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c948392c-768b-4761-a273-3d71c05621b8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0cf177bc-f61b-46e5-88fd-413f511de06b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1200,
+  "height": 1333,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0257f232-90e7-4466-bed4-e04fa9a2edd8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9b9f7c47-299f-4ac8-9478-3d89ccd8023c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": {
     "resourceType": "GMNineSliceData",
@@ -77,7 +77,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c948392c-768b-4761-a273-3d71c05621b8","path":"sprites/fondoplaceholder/fondoplaceholder.yy",},},},"Disabled":false,"id":"c3c1da41-557c-49cd-866c-748881ed9f48","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0cf177bc-f61b-46e5-88fd-413f511de06b","path":"sprites/fondoplaceholder/fondoplaceholder.yy",},},},"Disabled":false,"id":"59a0a536-25db-44f4-acea-6b4f567f2d3e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -93,5 +93,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1920,
+  "width": 2000,
 }

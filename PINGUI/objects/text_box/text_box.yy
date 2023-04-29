@@ -34,8 +34,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "TextDialogBox",
-    "path": "sprites/TextDialogBox/TextDialogBox.yy",
+    "name": "DIALOGOINST",
+    "path": "sprites/DIALOGOINST/DIALOGOINST.yy",
   },
   "spriteMaskId": null,
   "visible": true,

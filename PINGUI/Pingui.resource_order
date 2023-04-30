@@ -103,6 +103,7 @@
     {"name":"sprAbajo","order":9,"path":"sprites/sprAbajo/sprAbajo.yy",},
     {"name":"sprDerecha","order":11,"path":"sprites/sprDerecha/sprDerecha.yy",},
     {"name":"Fon_txt","order":5,"path":"fonts/Fon_txt/Fon_txt.yy",},
+    {"name":"controladorMovJueg2","order":5,"path":"objects/controladorMovJueg2/controladorMovJueg2.yy",},
     {"name":"fondito","order":6,"path":"sprites/fondito/fondito.yy",},
     {"name":"buttonParent","order":7,"path":"objects/buttonParent/buttonParent.yy",},
     {"name":"Sprite10","order":1,"path":"sprites/Sprite10/Sprite10.yy",},

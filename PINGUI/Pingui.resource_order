@@ -43,6 +43,7 @@
     {"name":"CerdPlata","order":1,"path":"objects/CerdPlata/CerdPlata.yy",},
     {"name":"objAbajo","order":8,"path":"objects/objAbajo/objAbajo.yy",},
     {"name":"Sprite2","order":8,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"sprPinguiAg","order":8,"path":"sprites/sprPinguiAg/sprPinguiAg.yy",},
     {"name":"CerdBronce","order":2,"path":"objects/CerdBronce/CerdBronce.yy",},
     {"name":"efectos_son_obj","order":3,"path":"objects/efectos_son_obj/efectos_son_obj.yy",},
     {"name":"mi_fuente","order":9,"path":"fonts/mi_fuente/mi_fuente.yy",},

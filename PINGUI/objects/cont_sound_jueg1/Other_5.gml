@@ -1,5 +1,5 @@
-if(room_persistent==true){
+if(global.gameIsPaused){
 	audio_pause_all();
-} else {
+} else{
 	audio_stop_all();
 }

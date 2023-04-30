@@ -1,7 +1,7 @@
 try {
+	room_persistent=false;
 	if(global.reset==true){
 		global.reset=false;
-		room_persistent=false;
 		room_goto(TempRoom);
 	}
 } catch(e){

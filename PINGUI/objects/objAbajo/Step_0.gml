@@ -1,6 +1,7 @@
 try{
 	if (mouse_check_button(mb_left) && place_free(objPingu3.x,objPingu3.y+movespeed)){
 		if(button_held){
+			play_sound_effect(pisada_ed);
 			objPingu3.y+=movespeed;
 			objPingu3.sprite_index = sprPinguiC;
 		}

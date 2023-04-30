@@ -1,5 +1,5 @@
 if(global.gameIsPaused){
-	audio_pause_all();
+	audio_pause_sound(minijuego2_snd);
 } else{
-	audio_stop_all();
+	audio_stop_sound(minijuego2_snd);
 }

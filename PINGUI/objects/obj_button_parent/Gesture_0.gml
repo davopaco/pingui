@@ -1,4 +1,5 @@
 try{
+	play_sound_effect(toque_ed);
 	image_alpha=0.8;
 	y=ystart+4;
 	pos_text=ystart+4;

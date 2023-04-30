@@ -1,4 +1,5 @@
 try {
+	play_sound_effect_vp(estrellada_roca_ed);
 	if(global.resume){
 		global.resume=false;
 		room_persistent=false;

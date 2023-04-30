@@ -1,4 +1,5 @@
 try {
+	play_sound_effect(toque_ed);
 	if(global.gameIsPaused==true){
 		global.gameIsPaused=false;
 		global.resume=true;

@@ -2,7 +2,7 @@ global.poinJuego = 0;
 global.home=true;
 global.reset=true;
 try {
-	audio_stop_all();
+	play_sound_effect(toque_ed);
 	if(global.room == "jueguito1"){
 		room_goto(JueguitRecolectorMonedas);
 	}

@@ -1,4 +1,5 @@
 try {
+	play_sound_effect(toque_ed);
 	if(global.gameData[4].music==1){
 		global.gameData[4].music=0;
 		image_index=1;

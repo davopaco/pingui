@@ -1,4 +1,5 @@
 try {
+	play_sound_effect(toque_ed);
 	room_persistent=true;
 	if(global.gameIsPaused==false){
 		global.gameIsPaused=true;

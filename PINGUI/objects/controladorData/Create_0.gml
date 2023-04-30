@@ -15,6 +15,10 @@ try {
 				}
 			}
 		}
+		global.gameData[4]={
+			music : 1,
+			effects : 1
+		}
 	}
 } catch(e){
 	file_delete("gamedata.json");

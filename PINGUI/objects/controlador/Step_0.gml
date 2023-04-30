@@ -1,6 +1,9 @@
 try {
 	if(global.poinJuego==30){
 		global.perder=false;
+		if(global.resume){
+			global.resume=false;
+		}
 		room_goto(GameOver);
 	}
 } catch(e){

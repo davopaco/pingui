@@ -1,4 +1,5 @@
 try {
+	play_sound_effect(toque_ed);
 	var filename, subject, email_body;
 
 	if(global.feed_manual==false){

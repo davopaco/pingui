@@ -1,11 +1,11 @@
 function error_content(_exception){
 	try {
+		audio_stop_all();
 		show_debug_message(_exception.longMessage);
 		show_debug_message(_exception.script);
 		for(var i = 0; i<array_length(_exception.stacktrace);i++){
 			show_debug_message(_exception.stacktrace[i]);
 		}
-		instance_destroy(all);
 		var filename = "errors.log";
 		var timestamp = "["+current_date_timestamp_string()+"] == ";
 		var os_info = os_get_info();
@@ -24,6 +24,11 @@ function error_content(_exception){
 		room_goto(ErrorRoom);
 	} catch (e){
 		show_debug_message(e.message);
+		show_debug_message(_exception.longMessage);
+		show_debug_message(_exception.script);
+		for(var i = 0; i<array_length(_exception.stacktrace);i++){
+			show_debug_message(_exception.stacktrace[i]);
+		}
 		show_debug_message("Hubo un error creando el contenido del error ocurrido.");
 	}
 }

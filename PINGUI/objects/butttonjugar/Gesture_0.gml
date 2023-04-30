@@ -1,6 +1,8 @@
 try {
-	if(global.gameIsPaused ==true){
+	play_sound_effect(toque_ed);
+	if(global.gameIsPaused==true){
 		global.gameIsPaused=false;
+		global.resume=true;
 		if(global.room == "jueguito1"){
 			room_goto(JueguitRecolectorMonedas);
 		}

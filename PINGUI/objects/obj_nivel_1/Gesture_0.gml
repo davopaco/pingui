@@ -1,5 +1,6 @@
 event_inherited();
 try {
+	instance_destroy(cont_snd_main);
 	global.room_to=JueguitRecolectorMonedas;
 	room_goto(PantallaCarga);
 } catch(e){

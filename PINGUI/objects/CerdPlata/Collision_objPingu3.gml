@@ -1,6 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
 try {
+	play_sound_effect_vp(agarrar_pigcoins_ed);
 	instance_destroy();
 	global.poinJuego+=6;
 } catch(e){

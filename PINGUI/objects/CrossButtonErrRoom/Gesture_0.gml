@@ -1,4 +1,5 @@
 try {
+	play_sound_effect(toque_ed);
 	if(global.feed_manual){
 		room_goto(Ajustes);
 	} else {

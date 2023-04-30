@@ -9,7 +9,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "RoomEstrellas",
-    "path": "folders/Objects/TempRoom/RoomEstrellas.yy",
+    "path": "folders/Objects/RoomEstrellas.yy",
   },
   "parentObjectId": null,
   "persistent": false,

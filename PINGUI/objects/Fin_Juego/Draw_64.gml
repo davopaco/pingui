@@ -1,4 +1,4 @@
-  try {
+   try {
 	 
  if(global.perder){
 	draw_set_font(fontGrande);

@@ -1,7 +1,8 @@
 try {
+	room_persistent=true;
 	if(global.gameIsPaused==false){
 		global.gameIsPaused=true;
-		room_persistent=true;
+		if(audio_is_playing())
 		room_goto(Pausemenu);
 	}
 } catch(e){

@@ -1,6 +1,9 @@
 global.reset=false;
 global.home=false;
+global.fin_juego=false;
+global.resume=false;
 global.room="";
+global.current_music=0;
 global.room_to=0;
 global.tdd_to=0;
 global.feed_manual=false;

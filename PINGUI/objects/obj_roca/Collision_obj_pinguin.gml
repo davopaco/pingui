@@ -1,4 +1,10 @@
 try {
+	if(global.resume){
+		global.resume=false;
+		room_persistent=false;
+		global.fin_juego=true;
+		room_goto(GameOver);
+	}
 	global.poinJuego=0;
 	room_goto(GameOver);
 } catch(e){

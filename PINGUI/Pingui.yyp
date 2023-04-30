@@ -71,6 +71,7 @@
     {"id":{"name":"CerdPlata","path":"objects/CerdPlata/CerdPlata.yy",},},
     {"id":{"name":"objAbajo","path":"objects/objAbajo/objAbajo.yy",},},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
+    {"id":{"name":"sprPinguiAg","path":"sprites/sprPinguiAg/sprPinguiAg.yy",},},
     {"id":{"name":"CerdBronce","path":"objects/CerdBronce/CerdBronce.yy",},},
     {"id":{"name":"efectos_son_obj","path":"objects/efectos_son_obj/efectos_son_obj.yy",},},
     {"id":{"name":"mi_fuente","path":"fonts/mi_fuente/mi_fuente.yy",},},

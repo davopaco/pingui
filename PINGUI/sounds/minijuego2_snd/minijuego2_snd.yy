@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "minijuego1_snd",
+  "name": "minijuego2_snd",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -17,7 +17,7 @@
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "minijuego1_snd.mp3",
+  "soundFile": "minijuego2_snd.mp3",
   "type": 0,
   "volume": 1.0,
 }

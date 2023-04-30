@@ -1,5 +1,6 @@
 global.reset=true;
 try {
+	audio_stop_all();
 	if(global.room == "jueguito1"){
 		room_goto(JueguitRecolectorMonedas);
 	}

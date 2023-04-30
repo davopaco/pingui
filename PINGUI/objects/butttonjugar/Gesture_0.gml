@@ -1,5 +1,5 @@
 try {
-	if(global.gameIsPaused ==true){
+	if(global.gameIsPaused==true){
 		global.gameIsPaused=false;
 		if(global.room == "jueguito1"){
 			room_goto(JueguitRecolectorMonedas);

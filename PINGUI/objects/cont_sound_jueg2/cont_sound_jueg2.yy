@@ -1,15 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OK_estrellas_obj",
+  "name": "cont_sound_jueg2",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "RoomEstrellas",
-    "path": "folders/Objects/RoomEstrellas.yy",
+    "name": "Jueguito2",
+    "path": "folders/Objects/Jueguito2.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -27,10 +29,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "CheckMark",
-    "path": "sprites/CheckMark/CheckMark.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

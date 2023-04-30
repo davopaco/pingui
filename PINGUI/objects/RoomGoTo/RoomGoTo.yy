@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "RoomEstrellas",
-    "path": "folders/Objects/TempRoom/RoomEstrellas.yy",
+    "name": "TempRoom",
+    "path": "folders/Objects/TempRoom.yy",
   },
   "parentObjectId": null,
   "persistent": false,

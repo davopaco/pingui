@@ -5,7 +5,7 @@ function error_content(_exception){
 		for(var i = 0; i<array_length(_exception.stacktrace);i++){
 			show_debug_message(_exception.stacktrace[i]);
 		}
-		instance_destroy(all);
+		
 		var filename = "errors.log";
 		var timestamp = "["+current_date_timestamp_string()+"] == ";
 		var os_info = os_get_info();

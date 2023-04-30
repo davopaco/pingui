@@ -139,6 +139,7 @@
     {"id":{"name":"sprAbajo","path":"sprites/sprAbajo/sprAbajo.yy",},},
     {"id":{"name":"sprDerecha","path":"sprites/sprDerecha/sprDerecha.yy",},},
     {"id":{"name":"Fon_txt","path":"fonts/Fon_txt/Fon_txt.yy",},},
+    {"id":{"name":"controladorMovJueg2","path":"objects/controladorMovJueg2/controladorMovJueg2.yy",},},
     {"id":{"name":"fondito","path":"sprites/fondito/fondito.yy",},},
     {"id":{"name":"buttonParent","path":"objects/buttonParent/buttonParent.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},

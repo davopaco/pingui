@@ -1,7 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
 try{
 	if (mouse_check_button(mb_left) && place_free(objPingu3.x,objPingu3.y+movespeed)){
 		if(button_held){

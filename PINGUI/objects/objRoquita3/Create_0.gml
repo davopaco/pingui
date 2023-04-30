@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this 
+_list1=ds_list_create();
+
 n = irandom_range(1,3);
 if(n==1){
 	alarm_set(0,120);

@@ -1,5 +1,6 @@
 function error_content(_exception){
 	try {
+		audio_stop_all();
 		show_debug_message(_exception.longMessage);
 		show_debug_message(_exception.script);
 		for(var i = 0; i<array_length(_exception.stacktrace);i++){

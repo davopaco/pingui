@@ -19,10 +19,10 @@
 	
 	draw_set_color($FF51B3CC);
 	draw_set_font(fontGrande);
-	var texto = string(global.poinJuego);
+	var texto_saldo = string(global.poinJuego);
 	draw_set_halign(fa_center);
 	draw_text(960, 400, "Felicidades!");
-	draw_text(960,500,"Saldo Ganado: " + texto);
+	draw_text(960,500,"Saldo Ganado: " + texto_saldo);
 }
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");

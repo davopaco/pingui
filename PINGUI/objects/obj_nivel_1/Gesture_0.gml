@@ -1,7 +1,7 @@
 event_inherited();
 try {
 	instance_destroy(cont_snd_main);
-	global.room_to=JueguitRecolectorMonedas;
+	global.room_to=Inst_Jueguitos1;
 	room_goto(PantallaCarga);
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");

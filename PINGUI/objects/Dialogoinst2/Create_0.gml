@@ -1,5 +1,5 @@
 try {
-	text= "Salta y deslizate con Pingui!\n\n Ten cuidado con los enemigos y \n recolecta todos los Pigcoins que puedas.";
+	text= "Salta y deslízate con PINGUI!\n\n Ten cuidado con los enemigos y \n recolecta todos los Pigcoins que puedas.";
 	textMostrar="";
 	text2 = ""
 	textMostrar2="";

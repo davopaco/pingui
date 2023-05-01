@@ -1,5 +1,5 @@
 try {
-	text= "Mueve estrategicamente a Pingui!\n\n Ten cuidado con las trampas y \n precaucion con lo que salga de las paredes!";
+	text= "Mueve estrategicamente a PINGUI!\n\n Ten cuidado con las trampas y \n precaución con lo que salga de las paredes!";
 	textMostrar="";
 	text2 = ""
 	textMostrar2="";

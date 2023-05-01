@@ -1,6 +1,7 @@
 global.reset=true;
 try {
 	play_sound_effect(toque_ed);
+	audio_stop_sound(global.current_music);
 	if(global.room == "jueguito1"){
 		room_goto(JueguitRecolectorMonedas);
 	}

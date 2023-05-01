@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "Mecanico",
   "bbox_bottom": 496,
-  "bbox_left": 135,
-  "bbox_right": 384,
+  "bbox_left": 0,
+  "bbox_right": 249,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -18,7 +18,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 500,
+  "height": 497,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ca60634d-0bf5-4d95-9719-b14f251715e3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -72,5 +72,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 500,
+  "width": 250,
 }

@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "back_men_niv",
+  "name": "obj_pigcoins_j1",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MenuNiveles",
-    "path": "folders/Objects/MenuNiveles.yy",
+    "name": "JueguitoMonedas",
+    "path": "folders/Objects/JueguitoMonedas.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "back_flecha",
-    "path": "sprites/back_flecha/back_flecha.yy",
+    "name": "pigcoin_minibox",
+    "path": "sprites/pigcoin_minibox/pigcoin_minibox.yy",
   },
   "spriteMaskId": null,
   "visible": true,

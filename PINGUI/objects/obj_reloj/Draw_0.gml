@@ -1,4 +1,5 @@
 try {
+	draw_self();
 	var texto_minutos = string(minutos);
 	var texto_segundos = string(segundos);
 
@@ -11,10 +12,11 @@ try {
 	else{
 	 
 	}
-	
+	draw_set_valign(fa_middle);
+	draw_set_halign(fa_left);
 	draw_set_color(color_text);
 	draw_set_font(text_font);
-	draw_text(10,10, texto_minutos + ":" + texto_segundos);
+	draw_text(x,y, texto_minutos + ":" + texto_segundos);
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");
 	error_content(e);

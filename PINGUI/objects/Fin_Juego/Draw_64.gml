@@ -21,8 +21,8 @@
 	draw_set_color(c_green);
 	draw_text_transformed(960, 336, "Felicidades! Ganaste",0.8,0.8,0);
 	draw_set_color(c_black);
-	draw_text(900,460,texto_saldo);
-	draw_sprite_ext(pingui_cerdito, 0, 1020, 460, 0.4, 0.4, 0, c_white, 1);
+	draw_text(900,485,texto_saldo);
+	draw_sprite_ext(pingui_cerdito, 0, 1020, 429, 0.4, 0.4, 0, c_white, 1);
 }
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");

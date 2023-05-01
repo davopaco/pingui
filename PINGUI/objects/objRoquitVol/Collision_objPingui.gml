@@ -1,6 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
  try {
+	play_sound_effect(estrellada_roca_ed);
 	global.poinJuego=0;
 	room_goto(GameOver);
 } catch(e){

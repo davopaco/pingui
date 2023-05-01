@@ -25,7 +25,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"da51c65c-be9f-4beb-a739-f35efe27f937","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 0,
+  "origin": 9,
   "parent": {
     "name": "Jueguito3",
     "path": "folders/Sprites/Jueguito3.yy",
@@ -63,7 +63,7 @@
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
+    "xorigin": 41,
     "yorigin": 0,
   },
   "swatchColours": null,

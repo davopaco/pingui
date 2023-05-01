@@ -101,6 +101,7 @@
     {"name":"dialogo_inst_j1","order":2,"path":"objects/dialogo_inst_j1/dialogo_inst_j1.yy",},
     {"name":"fnt_pingui0240","order":3,"path":"fonts/fnt_pingui0240/fnt_pingui0240.yy",},
     {"name":"Transitions","order":5,"path":"scripts/Transitions/Transitions.yy",},
+    {"name":"Sequence2","order":2,"path":"sequences/Sequence2/Sequence2.yy",},
     {"name":"fuente_boton","order":8,"path":"fonts/fuente_boton/fuente_boton.yy",},
     {"name":"Sprite68","order":6,"path":"sprites/Sprite68/Sprite68.yy",},
     {"name":"lluvia_de_pigcoins","order":4,"path":"sprites/lluvia_de_pigcoins/lluvia_de_pigcoins.yy",},

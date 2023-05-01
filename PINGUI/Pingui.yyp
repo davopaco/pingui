@@ -134,6 +134,7 @@
     {"id":{"name":"dialogo_inst_j1","path":"objects/dialogo_inst_j1/dialogo_inst_j1.yy",},},
     {"id":{"name":"fnt_pingui0240","path":"fonts/fnt_pingui0240/fnt_pingui0240.yy",},},
     {"id":{"name":"Transitions","path":"scripts/Transitions/Transitions.yy",},},
+    {"id":{"name":"Sequence2","path":"sequences/Sequence2/Sequence2.yy",},},
     {"id":{"name":"fuente_boton","path":"fonts/fuente_boton/fuente_boton.yy",},},
     {"id":{"name":"Sprite68","path":"sprites/Sprite68/Sprite68.yy",},},
     {"id":{"name":"lluvia_de_pigcoins","path":"sprites/lluvia_de_pigcoins/lluvia_de_pigcoins.yy",},},

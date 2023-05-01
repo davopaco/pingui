@@ -1,6 +1,7 @@
 global.reset=false;
 global.home=false;
 global.fin_juego=false;
+global.poinJuego=0;
 global.resume=false;
 global.room="";
 global.current_music=0;

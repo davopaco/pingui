@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "pingui_cerdito",
-  "bbox_bottom": 279,
+  "name": "cerdito_j1",
+  "bbox_bottom": 83,
   "bbox_left": 0,
-  "bbox_right": 389,
+  "bbox_right": 116,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 4,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 280,
+  "height": 84,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a80bd9cf-ca0a-4d53-8aa7-5c6d3f4c1b8b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -25,14 +25,14 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Jueguito1",
+    "path": "folders/Sprites/Jueguito1.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "pingui_cerdito",
+    "name": "cerdito_j1",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"91eb9b29-b991-4f02-b02d-241158817c0e","path":"sprites/pingui_cerdito/pingui_cerdito.yy",},},},"Disabled":false,"id":"d697e8a6-87b3-41f2-8ff4-2e3b2b64358c","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"91eb9b29-b991-4f02-b02d-241158817c0e","path":"sprites/cerdito_j1/cerdito_j1.yy",},},},"Disabled":false,"id":"38978d4b-504f-4b2a-8555-03695c05c7c1","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 390,
+  "width": 117,
 }

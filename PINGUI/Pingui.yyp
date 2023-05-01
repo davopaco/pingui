@@ -54,6 +54,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TomaDecisiones","folderPath":"folders/Sprites/TomaDecisiones.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Jueguito1","folderPath":"folders/Sprites/Jueguito1.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"_590735922539134979.png","CopyToMask":-1,"filePath":"datafiles",},
@@ -139,6 +140,7 @@
     {"id":{"name":"fuente_boton","path":"fonts/fuente_boton/fuente_boton.yy",},},
     {"id":{"name":"Sprite68","path":"sprites/Sprite68/Sprite68.yy",},},
     {"id":{"name":"obj_button_parent_mn","path":"objects/obj_button_parent_mn/obj_button_parent_mn.yy",},},
+    {"id":{"name":"cerdito_j1","path":"sprites/cerdito_j1/cerdito_j1.yy",},},
     {"id":{"name":"lluvia_de_pigcoins","path":"sprites/lluvia_de_pigcoins/lluvia_de_pigcoins.yy",},},
     {"id":{"name":"lineaseparadora108119","path":"sprites/lineaseparadora108119/lineaseparadora108119.yy",},},
     {"id":{"name":"cross_no_bg","path":"sprites/cross_no_bg/cross_no_bg.yy",},},
@@ -159,6 +161,7 @@
     {"id":{"name":"Contador_Reps","path":"objects/Contador_Reps/Contador_Reps.yy",},},
     {"id":{"name":"objTextBanco","path":"objects/objTextBanco/objTextBanco.yy",},},
     {"id":{"name":"Jueguito3","path":"rooms/Jueguito3/Jueguito3.yy",},},
+    {"id":{"name":"contr_roca_cerdos","path":"objects/contr_roca_cerdos/contr_roca_cerdos.yy",},},
     {"id":{"name":"pingui_pc_obj","path":"objects/pingui_pc_obj/pingui_pc_obj.yy",},},
     {"id":{"name":"Espinaspeques","path":"objects/Espinaspeques/Espinaspeques.yy",},},
     {"id":{"name":"controladorData","path":"objects/controladorData/controladorData.yy",},},

@@ -281,6 +281,7 @@
     {"id":{"name":"icy_letrero","path":"sprites/icy_letrero/icy_letrero.yy",},},
     {"id":{"name":"pingui_objeto","path":"objects/pingui_objeto/pingui_objeto.yy",},},
     {"id":{"name":"Inst_Jueguitos3","path":"rooms/Inst_Jueguitos3/Inst_Jueguitos3.yy",},},
+    {"id":{"name":"obj_reloj_j2","path":"objects/obj_reloj_j2/obj_reloj_j2.yy",},},
     {"id":{"name":"button","path":"sprites/button/button.yy",},},
     {"id":{"name":"pingui_cerdito","path":"sprites/pingui_cerdito/pingui_cerdito.yy",},},
     {"id":{"name":"Title_Predecisiones","path":"objects/Title_Predecisiones/Title_Predecisiones.yy",},},

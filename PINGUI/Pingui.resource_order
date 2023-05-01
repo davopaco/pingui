@@ -230,6 +230,7 @@
     {"name":"icy_letrero","order":42,"path":"sprites/icy_letrero/icy_letrero.yy",},
     {"name":"pingui_objeto","order":7,"path":"objects/pingui_objeto/pingui_objeto.yy",},
     {"name":"Inst_Jueguitos3","order":20,"path":"rooms/Inst_Jueguitos3/Inst_Jueguitos3.yy",},
+    {"name":"obj_reloj_j2","order":7,"path":"objects/obj_reloj_j2/obj_reloj_j2.yy",},
     {"name":"button","order":9,"path":"sprites/button/button.yy",},
     {"name":"pingui_cerdito","order":13,"path":"sprites/pingui_cerdito/pingui_cerdito.yy",},
     {"name":"Title_Predecisiones","order":8,"path":"objects/Title_Predecisiones/Title_Predecisiones.yy",},

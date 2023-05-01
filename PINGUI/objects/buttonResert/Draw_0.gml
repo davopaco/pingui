@@ -1,1 +1,3 @@
-draw_sprite_ext(reiniciar, 0, x, y, 1, 1, 0, c_white, 1);
+var _scale = 0.8;
+var x_sprite = x-((sprite_width*_scale)/2);
+draw_sprite_ext(reiniciar, 0, x_sprite, y, _scale, _scale, 0, c_white, 1);

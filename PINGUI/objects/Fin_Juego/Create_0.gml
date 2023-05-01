@@ -2,13 +2,13 @@
 #region Create instances of GameOver room
 	if(global.perder){
 		play_music(derrota_ed, false);
-		instance_create_layer(704, 540, "Instances_1", buttonMenu);
-		instance_create_layer(1037, 540, "Instances_1", buttonResert);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/3), 540, "Instances_1", buttonMenu);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/1.5), 540, "Instances_1", buttonResert);
 	}else{
 		play_music(conseguir_ed, false);
-		instance_create_layer(515, 620, "Instances_1", buttonMenu);
-		instance_create_layer(1253, 620, "Instances_1", buttonResert);
-		instance_create_layer(884, 620, "Instances_1", buttonContinuar);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/4), 620, "Instances_1", buttonMenu);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/(4/3)), 620, "Instances_1", buttonResert);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/2), 620, "Instances_1", buttonContinuar);
 	}
 	
 #endregion

@@ -1,7 +1,7 @@
 try {
 	text= "Salta y deslízate con PINGUI!\n\n Ten cuidado con los enemigos y \n recolecta todos los Pigcoins que puedas.";
 	textMostrar="";
-	text2 = ""
+	text2 = "Tienes 40 segundos, buena suerte!";
 	textMostrar2="";
 	alarm[0] = 3; 
 } catch(e){

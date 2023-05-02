@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "lluvia_de_pigcoins",
-  "bbox_bottom": 356,
+  "bbox_bottom": 341,
   "bbox_left": 0,
-  "bbox_right": 1070,
+  "bbox_right": 954,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"803aaac9-77e2-47de-af9d-1320304d86ca",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e8fe0b6f-8dd3-497c-9c63-52863381b71e",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 357,
+  "height": 342,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2b11fbe9-c05b-4d47-8c19-af79a7a1921c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ada091bd-2892-4759-8ddf-ff4e11eef49c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"803aaac9-77e2-47de-af9d-1320304d86ca","path":"sprites/lluvia_de_pigcoins/lluvia_de_pigcoins.yy",},},},"Disabled":false,"id":"3658142c-3ed6-49a6-8137-605edd05aff7","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e8fe0b6f-8dd3-497c-9c63-52863381b71e","path":"sprites/lluvia_de_pigcoins/lluvia_de_pigcoins.yy",},},},"Disabled":false,"id":"0e0258eb-b7de-4a01-82dd-e278961f9712","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1071,
+  "width": 955,
 }

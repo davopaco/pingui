@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"36197d11-9130-4e44-b1cf-1dc14d7abdde",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3cdd4411-21c1-4fca-beba-3859336a22f4",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 199,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"660ea32d-3d28-4bb6-933b-aa65b11006fc","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e3f5c63b-2709-49c8-93c7-4ca45d221990","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"36197d11-9130-4e44-b1cf-1dc14d7abdde","path":"sprites/piggycave/piggycave.yy",},},},"Disabled":false,"id":"dffcb2ab-7c65-4460-866b-893ed61fce5d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3cdd4411-21c1-4fca-beba-3859336a22f4","path":"sprites/piggycave/piggycave.yy",},},},"Disabled":false,"id":"8672f022-5e65-4955-bb94-7fef61c018a3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

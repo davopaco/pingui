@@ -29,7 +29,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "pigcoin_minibox",
+    "path": "sprites/pigcoin_minibox/pigcoin_minibox.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

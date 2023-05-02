@@ -4,11 +4,11 @@
 		global.room_to=mainmenu;
 		room_goto(PantallaCarga);
 	}else if(global.room=="jueguito1"){
-		room_goto(JueguitRecolectorMonedas);
+		room_goto(Inst_Jueguitos1);
 	}else if(global.room=="jueguito2"){
-		room_goto(Jueguito2);
+		room_goto(Inst_Jueguitos2);
 	}else if(global.room=="jueguito3"){
-		room_goto(Jueguito3);
+		room_goto(Inst_Jueguitos3);
 	}
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");

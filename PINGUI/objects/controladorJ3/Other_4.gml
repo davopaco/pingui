@@ -2,7 +2,7 @@ try {
 	room_persistent=false;
 	if(global.reset==true){
 		global.reset=false;
-		room_goto(Inst_Jueguitos3);
+		room_goto(TempRoom);
 	}
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");

@@ -1,0 +1,1 @@
+global.tap_1=true;

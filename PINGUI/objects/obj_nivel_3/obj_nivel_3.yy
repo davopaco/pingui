@@ -15,8 +15,8 @@
     "path": "folders/Objects/MenuNiveles.yy",
   },
   "parentObjectId": {
-    "name": "obj_button_parent",
-    "path": "objects/obj_button_parent/obj_button_parent.yy",
+    "name": "obj_button_parent_mn",
+    "path": "objects/obj_button_parent_mn/obj_button_parent_mn.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

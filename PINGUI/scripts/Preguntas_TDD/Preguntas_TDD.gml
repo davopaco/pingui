@@ -43,7 +43,7 @@ function get_list_preguntas_buenas(){
 		["Cereales", 2],
 		["Manzana", 2],
 		["Uvas", 1],
-		["Huevo sancochdo", 1],
+		["Huevo sancochado", 1],
 		["Milo", 2],
 		["Caldo de pollo", 1]
 	];

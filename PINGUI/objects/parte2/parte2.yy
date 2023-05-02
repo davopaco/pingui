@@ -1,0 +1,42 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "parte2",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"parte_parent","path":"objects/parte_parent/parte_parent.yy",},"propertyId":{"name":"text1","path":"objects/parte_parent/parte_parent.yy",},"value":"Se han descontado los pigcoins restantes para el disco.",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"parte_parent","path":"objects/parte_parent/parte_parent.yy",},"propertyId":{"name":"text","path":"objects/parte_parent/parte_parent.yy",},"value":"DISCO",},
+  ],
+  "parent": {
+    "name": "Spaceship_parts",
+    "path": "folders/Objects/Spaceship_parts.yy",
+  },
+  "parentObjectId": {
+    "name": "parte_parent",
+    "path": "objects/parte_parent/parte_parent.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "parte_nivel_2_disco",
+    "path": "sprites/parte_nivel_2_disco/parte_nivel_2_disco.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}

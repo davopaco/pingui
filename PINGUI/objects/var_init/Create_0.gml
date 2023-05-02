@@ -3,6 +3,7 @@ global.home=false;
 global.fin_juego=false;
 global.poinJuego=0;
 global.resume=false;
+global.tap_1=false;
 global.room="";
 global.current_music=0;
 global.room_to=0;

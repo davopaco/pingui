@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "parte2mas1",
-  "bbox_bottom": 411,
+  "bbox_bottom": 249,
   "bbox_left": 0,
-  "bbox_right": 874,
+  "bbox_right": 530,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 412,
+  "height": 250,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"26b9e3cb-543b-4496-af2e-767404e84146","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Spaceship_parts",
-    "path": "folders/Sprites/Spaceship_parts.yy",
+    "name": "Spaceship_parts_spr",
+    "path": "folders/Sprites/Spaceship_parts_spr.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 875,
+  "width": 531,
 }

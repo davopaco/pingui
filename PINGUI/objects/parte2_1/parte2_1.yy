@@ -9,8 +9,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"parte_parent","path":"objects/parte_parent/parte_parent.yy",},"propertyId":{"name":"text","path":"objects/parte_parent/parte_parent.yy",},"value":"CHASIS",},
   ],
   "parent": {
-    "name": "Spaceship_parts",
-    "path": "folders/Objects/Spaceship_parts.yy",
+    "name": "Spaceship_parts_obj",
+    "path": "folders/Objects/Spaceship_parts_obj.yy",
   },
   "parentObjectId": {
     "name": "parte_parent",

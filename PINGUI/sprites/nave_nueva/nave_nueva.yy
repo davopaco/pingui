@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "nave_nueva",
-  "bbox_bottom": 413,
+  "bbox_bottom": 249,
   "bbox_left": 0,
-  "bbox_right": 797,
+  "bbox_right": 481,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 414,
+  "height": 250,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e91428db-6332-4a78-a677-b33d1c8eb5f5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Spaceship_parts",
-    "path": "folders/Sprites/Spaceship_parts.yy",
+    "name": "Spaceship_parts_spr",
+    "path": "folders/Sprites/Spaceship_parts_spr.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 798,
+  "width": 482,
 }

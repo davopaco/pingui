@@ -12,8 +12,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Spaceship_parts",
-    "path": "folders/Objects/Spaceship_parts.yy",
+    "name": "Spaceship_parts_obj",
+    "path": "folders/Objects/Spaceship_parts_obj.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -2,17 +2,15 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "parte2",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"parte_parent","path":"objects/parte_parent/parte_parent.yy",},"propertyId":{"name":"text1","path":"objects/parte_parent/parte_parent.yy",},"value":"Se han descontado los pigcoins restantes para el disco.",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"parte_parent","path":"objects/parte_parent/parte_parent.yy",},"propertyId":{"name":"text","path":"objects/parte_parent/parte_parent.yy",},"value":"DISCO",},
   ],
   "parent": {
-    "name": "Spaceship_parts",
-    "path": "folders/Objects/Spaceship_parts.yy",
+    "name": "Spaceship_parts_obj",
+    "path": "folders/Objects/Spaceship_parts_obj.yy",
   },
   "parentObjectId": {
     "name": "parte_parent",

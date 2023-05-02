@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Spaceship_parts",
-    "path": "folders/Sprites/Spaceship_parts.yy",
+    "name": "Spaceship_parts_spr",
+    "path": "folders/Sprites/Spaceship_parts_spr.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

@@ -27,8 +27,11 @@ try {
 			show_message_async("La integridad de los datos del archivo está corrupta. Para la seguridad de todxs, el archivo se eliminará.");
 			file_delete(filename);
 		}
-
-	game_restart();
+	if(global.feed_manual){
+		room_goto(mainmenu);
+	}else{
+		game_restart();
+	}
 
 } catch(e){
 	show_debug_message("Ha sucedido un error!");

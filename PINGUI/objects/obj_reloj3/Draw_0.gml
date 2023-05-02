@@ -1,16 +1,24 @@
 try {
 	draw_self();
-	var texto_minutos = string(minutos);
-	var texto_segundos = string(segundos);
+	segundos_aux=segundos-i;
+	if(segundos!=0){
+		if(segundos%60==0&&no_repetir==false){
+			no_repetir=true;
+			segundos_aux=0;
+			minutos_aux++;
+			i+=60;
+		}
+	}
+	var texto_minutos;
+	texto_minutos = string(minutos_aux);
+	var texto_segundos;
+	texto_segundos = string(segundos_aux);
 
 	if(string_length(texto_minutos)==1){
 		texto_minutos="0"+ texto_minutos;
 	}
 	if(string_length(texto_segundos)==1){
 		texto_segundos="0"+ texto_segundos;
-	}
-	else{
-	 
 	}
 	
 	draw_set_color(color_text);

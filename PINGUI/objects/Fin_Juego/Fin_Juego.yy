@@ -27,7 +27,9 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"color_texto1","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$00000099","varType":7,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"color_texto1","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$001E6620","varType":7,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"color_texto2","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$001515D9","varType":7,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"color_texto3","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$FF0A213A","varType":7,},
   ],
   "solid": false,
   "spriteId": null,

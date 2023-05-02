@@ -7,7 +7,7 @@
 	 if(alarma_segundo == 0)
 	 {
 		 segundos++;
-		 if(segundos == 60){
+		 if(segundos == 61){
 			 global.perder=false;
 			 if(global.poinJuego>=16){
 				 global.gameData[3].ayuda_banco = int64(0);

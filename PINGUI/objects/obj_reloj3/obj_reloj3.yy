@@ -28,10 +28,13 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"color_text","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$FF990200","varType":7,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"color_text","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"$FF000000","varType":7,},
   ],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "reloj_box",
+    "path": "sprites/reloj_box/reloj_box.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

@@ -1,10 +1,16 @@
 global.reset=false;
 global.home=false;
+global.fin_juego=false;
+global.poinJuego=0;
+global.resume=false;
+global.tap_1=false;
 global.room="";
+global.current_music=0;
 global.room_to=0;
 global.tdd_to=0;
 global.feed_manual=false;
 global.reset_toma_decisiones=false;
+global.sound_effects=global.gameData[4].effects;
 global.struct_toma_de_decisiones={
 	tdd_1:1,
 	tdd_2:2,

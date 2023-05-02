@@ -1,5 +1,3 @@
-//desayuno
-
 function Eliminar(index){
 	ds_list_delete(global.preguntas_buenas,index);
 	ds_list_delete(global.preguntas_malas,index);

@@ -1,5 +1,3 @@
-/// @description Insert description here
-
 m = irandom_range(1,4);
 if (m==1){
 	vspeed-=4;

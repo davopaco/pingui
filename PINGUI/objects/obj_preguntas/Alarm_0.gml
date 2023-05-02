@@ -16,7 +16,7 @@ try {
 		Eliminar(global.num_preg_actual);
 		room_goto(global.tdd_to);
 	} else {
-		global.gameData[_num_room].toma_de_decisiones.puntos_init=global.puntos;
+		global.gameData[_num_room].toma_de_decisiones.puntos_init=global.poinJuego;
 		global.gameData[_num_room].toma_de_decisiones.puntos_fin=Contador_Plata.points;
 		global.gameData[_num_room].toma_de_decisiones.status_win=true;
 	}

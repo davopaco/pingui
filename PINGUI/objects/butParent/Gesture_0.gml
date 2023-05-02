@@ -1,4 +1,5 @@
 try{
+	play_sound_effect(toque_ed);
 	y=ystart+4;
 	alarm[0]=room_speed*0.1;
 } catch(e){

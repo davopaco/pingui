@@ -1,4 +1,5 @@
 try {
+	play_sound_effect(toque_ed);
 	// Inherit the parent event
 	event_inherited();
 

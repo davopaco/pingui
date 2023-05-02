@@ -1,6 +1,7 @@
 event_inherited();
 try {
-	global.room_to=Jueguito2;
+	instance_destroy(cont_snd_main);
+	global.room_to=Inst_Jueguitos2;
 	room_goto(PantallaCarga);
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");

@@ -1,12 +1,20 @@
  try {
 #region Create instances of GameOver room
+	
+	//(y/(y-1))=x for creating instances.
+	var menu_width = sprite_get_width(menu)/2;
+	var check_width = sprite_get_width(CheckMark)/2;
+	var reset_width = sprite_get_width(reiniciar)/2;
+	
 	if(global.perder){
-		instance_create_layer(381, 703, "Instances", buttonMenu);
-		instance_create_layer(1060, 703, "Instances", buttonResert);
+		play_music(derrota_ed, false);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/2.5)-menu_width, 600, "Instances_1", buttonMenu);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/(5/3))-reset_width, 600, "Instances_1", buttonResert);
 	}else{
-		instance_create_layer(100, 703, "Instances", buttonMenu);
-		instance_create_layer(1318, 703, "Instances", buttonResert);
-		instance_create_layer(700, 703, "Instances", buttonContinuar);
+		play_music(conseguir_ed, false);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/4)-menu_width, 620, "Instances_1", buttonMenu);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/(4/3))-reset_width, 620, "Instances_1", buttonResert);
+		instance_create_layer(fondo_game_over.x+(fondo_game_over.sprite_width/2)-check_width, 620, "Instances_1", buttonContinuar);
 	}
 	
 #endregion
@@ -17,7 +25,7 @@
 	
 	var _length=array_length(global.gameData);
 	global.gameData[0].points=0;
-	for(var i=1; i<_length; i++){
+	for(var i=1; i<_length-1; i++){
 		global.gameData[0].points+=global.gameData[i].points;
 	}
 	global.puntos=global.gameData[0].points;

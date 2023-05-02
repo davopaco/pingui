@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "cross_no_bg",
-    "path": "sprites/cross_no_bg/cross_no_bg.yy",
+    "name": "back_flecha",
+    "path": "sprites/back_flecha/back_flecha.yy",
   },
   "spriteMaskId": null,
   "visible": true,

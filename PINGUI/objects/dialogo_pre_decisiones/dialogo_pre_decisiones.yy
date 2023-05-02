@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Text_dialog",
-    "path": "sprites/Text_dialog/Text_dialog.yy",
+    "name": "TextDialogBox",
+    "path": "sprites/TextDialogBox/TextDialogBox.yy",
   },
   "spriteMaskId": null,
   "visible": true,

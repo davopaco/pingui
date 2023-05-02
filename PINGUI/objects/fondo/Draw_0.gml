@@ -2,7 +2,7 @@ try{
 	draw_self();
 
 	draw_set_font(fontGrande);
-	draw_set_color(colorText);
+	draw_set_color(c_maroon);
 
 	draw_set_halign(fa_center);
 	draw_set_valign(fa_middle);

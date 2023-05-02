@@ -1,6 +1,9 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"Conexion","order":1,"path":"folders/Objects/Conexion.yy",},
+  ],
   "ResourceOrderSettings": [
+    {"name":"conexion_fallida","order":1,"path":"rooms/conexion_fallida/conexion_fallida.yy",},
     {"name":"AA","order":2,"path":"objects/AA/AA.yy",},
     {"name":"control_historia","order":3,"path":"objects/control_historia/control_historia.yy",},
     {"name":"Sequence2","order":1,"path":"sequences/Sequence2/Sequence2.yy",},

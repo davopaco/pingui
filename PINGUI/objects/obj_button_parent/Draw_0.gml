@@ -1,7 +1,7 @@
 try {
 	draw_self();
 
-	draw_set_font(fnt_pingui01);
+	draw_set_font(fnt_pingui);
 	draw_set_color(c_blue);
 
 	draw_set_halign(fa_center);

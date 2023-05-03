@@ -8,6 +8,7 @@ global.room="";
 global.current_music=0;
 global.room_to=0;
 global.tdd_to=0;
+global.feed_manual1=false;
 global.feed_manual=false;
 global.reset_toma_decisiones=false;
 global.sound_effects=global.gameData[4].effects;

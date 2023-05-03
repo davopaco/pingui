@@ -7,5 +7,6 @@
     {"name":"AA","order":2,"path":"objects/AA/AA.yy",},
     {"name":"control_historia","order":3,"path":"objects/control_historia/control_historia.yy",},
     {"name":"Sequence2","order":1,"path":"sequences/Sequence2/Sequence2.yy",},
+    {"name":"envio_correo","order":1,"path":"objects/envio_correo/envio_correo.yy",},
   ],
 }

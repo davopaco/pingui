@@ -22,13 +22,17 @@ try {
 		var hash_to_compare = sha1_string_utf8_hmac(global.hmac_key, hashless_string);
 	
 		if(expected_hash==hash_to_compare){
+			if(!os_is_network_connected()){
+				global.feed_manual1=global.feed_manual;
+				room_goto(conexion_fallida);
+			}
 			send_email_pingui_server(filename, subject, email_body);
 		}else{
 			show_message_async("La integridad de los datos del archivo está corrupta. Para la seguridad de todxs, el archivo se eliminará.");
 			file_delete(filename);
 		}
 	if(global.feed_manual){
-		room_goto(mainmenu);
+		room_goto(Ajustes);
 	}else{
 		game_restart();
 	}

@@ -1,12 +1,18 @@
 {
   "FolderOrderSettings": [
     {"name":"Conexion","order":1,"path":"folders/Objects/Conexion.yy",},
+    {"name":"Credits","order":2,"path":"folders/Objects/Credits.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"conexion_fallida","order":1,"path":"rooms/conexion_fallida/conexion_fallida.yy",},
+    {"name":"Credits","order":2,"path":"rooms/Credits/Credits.yy",},
+    {"name":"pingui_logo_credits","order":1,"path":"sprites/pingui_logo_credits/pingui_logo_credits.yy",},
+    {"name":"fuentes_cred","order":1,"path":"fonts/fuentes_cred/fuentes_cred.yy",},
+    {"name":"credits_pingui","order":1,"path":"sequences/credits_pingui/credits_pingui.yy",},
     {"name":"AA","order":2,"path":"objects/AA/AA.yy",},
     {"name":"control_historia","order":3,"path":"objects/control_historia/control_historia.yy",},
     {"name":"Sequence2","order":1,"path":"sequences/Sequence2/Sequence2.yy",},
     {"name":"envio_correo","order":1,"path":"objects/envio_correo/envio_correo.yy",},
+    {"name":"CreditNames","order":1,"path":"scripts/CreditNames/CreditNames.yy",},
   ],
 }

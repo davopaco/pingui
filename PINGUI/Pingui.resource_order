@@ -9,6 +9,8 @@
     {"name":"pingui_logo_credits","order":1,"path":"sprites/pingui_logo_credits/pingui_logo_credits.yy",},
     {"name":"fuentes_cred","order":1,"path":"fonts/fuentes_cred/fuentes_cred.yy",},
     {"name":"credits_pingui","order":1,"path":"sequences/credits_pingui/credits_pingui.yy",},
+    {"name":"credits","order":1,"path":"objects/credits/credits.yy",},
+    {"name":"carga_seq","order":2,"path":"sequences/carga_seq/carga_seq.yy",},
     {"name":"AA","order":2,"path":"objects/AA/AA.yy",},
     {"name":"control_historia","order":3,"path":"objects/control_historia/control_historia.yy",},
     {"name":"Sequence2","order":1,"path":"sequences/Sequence2/Sequence2.yy",},

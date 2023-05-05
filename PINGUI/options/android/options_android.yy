@@ -63,7 +63,7 @@
   "option_android_sleep_margin": 4,
   "option_android_splash_screens_landscape": "splash/landscape.png",
   "option_android_splash_screens_portrait": "splash/portrait.png",
-  "option_android_splash_time": 0,
+  "option_android_splash_time": 2,
   "option_android_splashscreen_background_colour": 255,
   "option_android_support_lib": "31.0.0",
   "option_android_sync_amazon": false,

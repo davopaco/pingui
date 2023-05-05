@@ -1,25 +1,28 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function credit_text(){
-	var text="DESARROLLADO POR\n\n";
-	text+="SOFIA ALEJANDRA SALAS\n";
-	text+="DAVID SANTIAGO CARDENAS\n";
-	text+="ALEXANDRA BERNAL\n";
-	text+="NICOLLE FABIANA CADAVID\n";
-	text+="JOSE GABRIEL REYES";
-	text+="\n\n\n";
-	text+="DISEÑADO GRÁFICAMENTE POR\n\n";
-	text+="SOFIA ALEJANDRA SALAS\n";
-	text+="DAVID SANTIAGO CARDENAS";
-	text+="\n\n\n";
-	text+="HISTORIA HECHA POR\n\n";
-	text+="SOFIA ALEJANDRA SALAS\n";
-	text+="NICOLLE FABIANA CADAVID\n";
-	text+="DAVID SANTIAGO CARDENAS";
-	text+="\n\n\n";
-	text+="MÚSICA HECHA POR\n\n";
-	text+="DAVID SANTIAGO CARDENAS\n";
-	text+="SOFIA ALEJANDRA SALAS";
 	
-	return text;
+	var text_array=[
+		"CREADO POR\n\n"+
+		"SOFÍA ALEJANDRA SALAS\n"+
+		"ALEXANDRA BERNAL\n"+
+		"NICOLLE FABIANA CADAVID\n"+
+		"DAVID SANTIAGO CÁRDENAS\n"+
+		"JOSÉ GABRIEL REYES",
+		"DESARROLLADO POR\n\n"+
+		"ALEXANDRA BERNAL\n"+
+		"DAVID SANTIAGO CÁRDENAS\n"+
+		"JOSÉ GABRIEL REYES",
+		"DISEÑADO GRÁFICAMENTE POR\n\n"+
+		"SOFIA ALEJANDRA SALAS\n"+
+		"NICOLLE FABIANA CADAVID\n"+
+		"DAVID SANTIAGO CÁRDENAS",
+		"HISTORIA HECHA POR\n\n"+
+		"SOFIA ALEJANDRA SALAS\n"+
+		"NICOLLE FABIANA CADAVID\n"+
+		"DAVID SANTIAGO CÁRDENAS",
+		"MÚSICA HECHA POR\n\n"+
+		"DAVID SANTIAGO CÁRDENAS\n"+
+		"SOFÍA ALEJANDRA SALAS"
+	];
+	
+	return text_array;
 }

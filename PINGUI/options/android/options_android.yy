@@ -9,7 +9,7 @@
   "option_android_build_tools": "",
   "option_android_compile_sdk": "31",
   "option_android_device_support": 0,
-  "option_android_display_name": "PINGUI",
+  "option_android_display_name": "PINGÜI",
   "option_android_facebook_app_display_name": "",
   "option_android_facebook_id": "",
   "option_android_gamepad_support": true,

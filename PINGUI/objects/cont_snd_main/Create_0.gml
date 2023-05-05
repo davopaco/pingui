@@ -1,1 +1,1 @@
-play_music(pingui_snd);
+play_music(pingui_snd, true);

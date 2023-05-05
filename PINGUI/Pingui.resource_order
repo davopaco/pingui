@@ -4,7 +4,7 @@
     {"name":"Credits","order":2,"path":"folders/Objects/Credits.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"conexion_fallida","order":1,"path":"rooms/conexion_fallida/conexion_fallida.yy",},
+    {"name":"conexion","order":1,"path":"rooms/conexion/conexion.yy",},
     {"name":"Credits","order":2,"path":"rooms/Credits/Credits.yy",},
     {"name":"pingui_logo_credits","order":1,"path":"sprites/pingui_logo_credits/pingui_logo_credits.yy",},
     {"name":"fuentes_cred","order":1,"path":"fonts/fuentes_cred/fuentes_cred.yy",},

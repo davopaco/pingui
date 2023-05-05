@@ -86,7 +86,7 @@
     {"id":{"name":"CerdBronce","path":"objects/CerdBronce/CerdBronce.yy",},},
     {"id":{"name":"efectos_son_obj","path":"objects/efectos_son_obj/efectos_son_obj.yy",},},
     {"id":{"name":"cerdito_banquero","path":"sprites/cerdito_banquero/cerdito_banquero.yy",},},
-    {"id":{"name":"conexion_fallida","path":"rooms/conexion_fallida/conexion_fallida.yy",},},
+    {"id":{"name":"conexion","path":"rooms/conexion/conexion.yy",},},
     {"id":{"name":"Dialogoinst2","path":"objects/Dialogoinst2/Dialogoinst2.yy",},},
     {"id":{"name":"piggycave","path":"sprites/piggycave/piggycave.yy",},},
     {"id":{"name":"sprCerdito2","path":"sprites/sprCerdito2/sprCerdito2.yy",},},
@@ -437,7 +437,7 @@
     {"roomId":{"name":"Inst_Jueguitos2","path":"rooms/Inst_Jueguitos2/Inst_Jueguitos2.yy",},},
     {"roomId":{"name":"Inst_Jueguitos3","path":"rooms/Inst_Jueguitos3/Inst_Jueguitos3.yy",},},
     {"roomId":{"name":"Instrucciones_Menu","path":"rooms/Instrucciones_Menu/Instrucciones_Menu.yy",},},
-    {"roomId":{"name":"conexion_fallida","path":"rooms/conexion_fallida/conexion_fallida.yy",},},
+    {"roomId":{"name":"conexion","path":"rooms/conexion/conexion.yy",},},
     {"roomId":{"name":"Credits","path":"rooms/Credits/Credits.yy",},},
   ],
   "TextureGroups": [

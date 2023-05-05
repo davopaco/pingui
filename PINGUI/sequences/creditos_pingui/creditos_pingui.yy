@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSequence",
   "resourceVersion": "1.4",
-  "name": "carga_seq",
+  "name": "creditos_pingui",
   "autoRecord": true,
   "backdropHeight": 1080,
   "backdropImageOpacity": 0.5,

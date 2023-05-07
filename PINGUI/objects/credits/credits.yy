@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "pingui_cerdito",
-    "path": "sprites/pingui_cerdito/pingui_cerdito.yy",
+    "name": "piggy_star_600",
+    "path": "sprites/piggy_star_600/piggy_star_600.yy",
   },
   "spriteMaskId": null,
   "visible": true,

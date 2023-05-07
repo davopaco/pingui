@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "cerdito_banquero",
-    "path": "sprites/cerdito_banquero/cerdito_banquero.yy",
+    "name": "jugar",
+    "path": "sprites/jugar/jugar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

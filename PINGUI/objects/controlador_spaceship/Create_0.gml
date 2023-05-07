@@ -1,6 +1,7 @@
 try {
 	var _num_room = global.rooms_struct[$ global.room];
 	global.gameData[_num_room].parte=true;
+	global.gameData[_num_room].points=0;
 	draw=false;
 	_draw_sprite=false;
 	var x_sprite, y_sprite;

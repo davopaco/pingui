@@ -5,7 +5,6 @@ try{
 		global.gameData[_num_room+1].unlocked=true;
 	}
 	global.gameData[_num_room].points=global.gameData[_num_room].toma_de_decisiones.puntos_fin;
-	global.puntos=global.gameData[_num_room].points;
 	if(global.gameData[_num_room].parte==false){
 		room_goto(spaceship_parts);
 	} else {

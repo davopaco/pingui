@@ -22,13 +22,6 @@
 #region Append data to the global variable gameData
 	var _num_room=global.rooms_struct[$ global.room];
 	global.gameData[_num_room].points = global.poinJuego;
-	
-	var _length=array_length(global.gameData);
-	global.gameData[0].points=0;
-	for(var i=1; i<_length-1; i++){
-		global.gameData[0].points+=global.gameData[i].points;
-	}
-	global.puntos=global.gameData[0].points;
 #endregion
 } catch(e){
 	show_debug_message("Ha ocurrido un error!");

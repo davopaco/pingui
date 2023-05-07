@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "CheckButtonErrRoom",
+  "name": "conexion_exi",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ErrorRoom",
-    "path": "folders/Objects/ErrorRoom.yy",
+    "name": "Conexion",
+    "path": "folders/Objects/Conexion.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "CheckBox",
-    "path": "sprites/CheckBox/CheckBox.yy",
+    "name": "CheckMark",
+    "path": "sprites/CheckMark/CheckMark.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,5 +1,5 @@
 function export_to_json(_filename, _data, _func){
-	if(file_exists(_filename)) file_delete(_filename);
+	if(file_exists(_filename)) {file_delete(_filename)};
 	var file = file_text_open_write(_filename);
 	file_text_write_string(file, script_execute(_func, _data));
 	file_text_close(file);

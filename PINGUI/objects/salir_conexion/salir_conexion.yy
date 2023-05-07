@@ -3,7 +3,6 @@
   "resourceVersion": "1.0",
   "name": "salir_conexion",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
   ],
   "managed": true,
@@ -29,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "CrossBox",
-    "path": "sprites/CrossBox/CrossBox.yy",
+    "name": "CrossMark",
+    "path": "sprites/CrossMark/CrossMark.yy",
   },
   "spriteMaskId": null,
   "visible": true,

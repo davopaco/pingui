@@ -9,6 +9,6 @@ try {
 
 	draw_text_ext(359, 507, global.kv_input_string, 35, 1171);
 }catch(e){
-	show_message("Hubo un error! Lo sentimos");
+	show_message_async("Hubo un error! Lo sentimos");
 	game_restart();
 }

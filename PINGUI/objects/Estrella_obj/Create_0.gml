@@ -11,9 +11,9 @@ try {
 		image_index=0;
 		global.gameData[_num_room].toma_de_decisiones.status_win=false;
 	}else if (_puntos>=0.2 && _puntos<0.3){
-		play_music(conseguir_ed, false);
+		play_music(derrota_ed, false);
 		image_index=1;
-		instance_create_depth(832,672,layer_get_depth(inst_778CABBB) - 1, OK_estrellas_obj);
+		global.gameData[_num_room].toma_de_decisiones.status_win=false;
 	}else if (_puntos>=0.3 && _puntos<0.4){
 		play_music(conseguir_ed, false);
 		image_index=2;

@@ -9,6 +9,8 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent/obj_button_parent.yy",},"value":"3",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button_parent_mn","path":"objects/obj_button_parent_mn/obj_button_parent_mn.yy",},"propertyId":{"name":"numero","path":"objects/obj_button_parent_mn/obj_button_parent_mn.yy",},"value":"3",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_button_parent_mn","path":"objects/obj_button_parent_mn/obj_button_parent_mn.yy",},"propertyId":{"name":"button_text","path":"objects/obj_button_parent_mn/obj_button_parent_mn.yy",},"value":"3",},
   ],
   "parent": {
     "name": "MenuNiveles",

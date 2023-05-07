@@ -3,9 +3,9 @@ try {
 	if(global.feed_manual){
 		room_goto(Ajustes);
 	} else {
-		room_goto(mainmenu);
+		game_restart();
 	}
 } catch (e){
-	show_message("Acaba de suceder un error! Lo sentimos):");
+	show_message_async("Acaba de suceder un error! Lo sentimos):");
 	game_restart();
 }

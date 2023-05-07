@@ -6,10 +6,12 @@ try{
 				instance_destroy(controlador_spaceship);
 				instance_create_layer(1, 1, "Instances", controlador_spaceship);
 			} else{
-				room_goto(mainmenu);
+				global.tap_1=false;
+				room_goto(MenuNiveles);
 			}
 		}else {
-			room_goto(mainmenu);
+			global.tap_1=false;
+			room_goto(MenuNiveles);
 		}
 	}
 } catch(e){

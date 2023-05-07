@@ -1,8 +1,15 @@
 event_inherited();
 try {
 	if(global.gameData[numero].unlocked){
+		global.room = "jueguito3";
+		global.toma_de_decisiones="tdd_3";
+		var _num_room=global.rooms_struct[$ global.room];
+		if(global.gameData[_num_room].points!=0){
+			global.room_to=tdd_condicional;
+		}else{
+			global.room_to=Inst_Jueguitos3;
+		}
 		instance_destroy(cont_snd_main);
-		global.room_to=Inst_Jueguitos3;
 		room_goto(PantallaCarga);
 	}
 } catch(e){

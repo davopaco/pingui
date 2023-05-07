@@ -19,6 +19,7 @@ global.struct_toma_de_decisiones={
 }
 
 try {
+	global.gameData[1].unlocked=true;
 	if(global.gameData[0].points!=0){
 		global.puntos=global.gameData[0].points;
 	}else{

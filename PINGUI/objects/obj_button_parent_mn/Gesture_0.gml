@@ -1,5 +1,9 @@
 try{
-	play_sound_effect(toque_ed);
+	if(global.gameData[numero].unlocked){
+		play_sound_effect(toque_ed);
+	}else{
+		play_sound_effect(negacion);
+	}
 	image_alpha=0.8;
 	y=ystart+4;
 	pos_text=ystart+4;

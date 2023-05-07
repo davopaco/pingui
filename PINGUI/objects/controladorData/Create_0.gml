@@ -6,6 +6,7 @@ try {
 		global.gameData[0]={points : 0};
 		for(var i=1; i<4; i++){
 			global.gameData[i]={
+				unlocked : false,
 				parte : false,
 				points : 0,
 				ayuda_banco : undefined,

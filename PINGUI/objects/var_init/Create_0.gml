@@ -5,6 +5,7 @@ global.poinJuego=0;
 global.resume=false;
 global.tap_1=false;
 global.room="";
+global.historia_final=false;
 global.current_music=0;
 global.room_to=0;
 global.tdd_to=0;

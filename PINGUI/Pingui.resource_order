@@ -47,6 +47,7 @@
     {"name":"prueba","order":3,"path":"objects/prueba/prueba.yy",},
     {"name":"manoabajo","order":2,"path":"sprites/manoabajo/manoabajo.yy",},
     {"name":"Atardecer","order":1,"path":"sprites/Atardecer/Atardecer.yy",},
+    {"name":"historia_final","order":6,"path":"sounds/historia_final/historia_final.yy",},
     {"name":"HistoriaFinal","order":4,"path":"rooms/HistoriaFinal/HistoriaFinal.yy",},
     {"name":"manoarriba","order":3,"path":"sprites/manoarriba/manoarriba.yy",},
     {"name":"reloj","order":3,"path":"sprites/reloj/reloj.yy",},

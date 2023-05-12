@@ -316,6 +316,7 @@
     {"id":{"name":"obj_reloj","path":"objects/obj_reloj/obj_reloj.yy",},},
     {"id":{"name":"sPixel","path":"sprites/sPixel/sPixel.yy",},},
     {"id":{"name":"Dialogo_decisiones","path":"objects/Dialogo_decisiones/Dialogo_decisiones.yy",},},
+    {"id":{"name":"historia_final","path":"sounds/historia_final/historia_final.yy",},},
     {"id":{"name":"sprRoca","path":"sprites/sprRoca/sprRoca.yy",},},
     {"id":{"name":"roca","path":"sprites/roca/roca.yy",},},
     {"id":{"name":"HistoriaFinal","path":"rooms/HistoriaFinal/HistoriaFinal.yy",},},

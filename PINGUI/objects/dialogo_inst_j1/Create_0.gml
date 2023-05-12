@@ -1,5 +1,5 @@
 try {
-	text= "Toca y desliza a PINGUI por la pantalla!\n\n Ten cuidado con las rocas y \n recolecta todos los Pigcoins que puedas.";
+	text= "Toca y desliza a PINGÜI por la pantalla!\n\n Ten cuidado con las rocas y \n recolecta todos los Pigcoins que puedas.";
 	textMostrar="";
 	text2 = "Tienes 50 segundos, buena suerte!";
 	textMostrar2="";

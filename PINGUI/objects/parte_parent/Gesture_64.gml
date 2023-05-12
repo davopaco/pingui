@@ -5,7 +5,10 @@ try{
 				instance_destroy();
 				instance_destroy(controlador_spaceship);
 				instance_create_layer(1, 1, "Instances", controlador_spaceship);
-			} else{
+			} else if(global.room=="jueguito3"){
+				global.tap_1=false;
+				room_goto(HistoriaFinal);
+			}else{
 				global.tap_1=false;
 				room_goto(MenuNiveles);
 			}

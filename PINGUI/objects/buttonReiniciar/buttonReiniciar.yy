@@ -33,7 +33,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "buttonv2",
+    "path": "sprites/buttonv2/buttonv2.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

@@ -37,6 +37,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"PauseMenu","folderPath":"folders/Objects/PauseMenu.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"RoomEstrellas","folderPath":"folders/Objects/RoomEstrellas.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Spaceship_parts_obj","folderPath":"folders/Objects/Spaceship_parts_obj.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tdd_condicional","folderPath":"folders/Objects/tdd_condicional.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TempRoom","folderPath":"folders/Objects/TempRoom.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TomaDecisiones","folderPath":"folders/Objects/TomaDecisiones.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
@@ -60,7 +61,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"TomaDecisiones","folderPath":"folders/Sprites/TomaDecisiones.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tdd_condicional","folderPath":"folders/Objects/tdd_condicional.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"_590735922539134979.png","CopyToMask":-1,"filePath":"datafiles",},

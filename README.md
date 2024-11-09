@@ -1,4 +1,4 @@
-# PINGUI
+# PINGUI 🐧
 An offline game created for teaching kids, within a basic foundation, how to properly use financial resources.
 
 ## Features
